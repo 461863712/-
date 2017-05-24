@@ -1,0 +1,410 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet/less" href="style.less">
+</head>
+<body>
+<!---------------------------头部----------------------------------->
+<div id="header">
+    <div class="header-container">
+        <div class="container-left">
+            <img src="images/京东金融_10.jpg">
+            <a href="#">京东首页</a>
+        </div>
+        <ul class="container-right">
+            <li><a href="#">你好,请登录</a></li>
+            <li><a href="#">免费注册</a></li>
+            <li>|</li>
+            <li><a href="#">我的交易单</a></li>
+            <li>|</li>
+            <li><a href="#"><b>会员中心</b><span>NEW</span></a></li>
+            <li>|</li>
+            <li><b></b><a href="#">手机金融</a><span></span><div></div></li>
+            <li>|</li>
+            <li><a href="#">我的关注</a></li>
+            <li>|</li>
+            <li><p>联系客服</p><span></span><div></div></li>
+            <li>|</li>
+            <li><p>网站导航</p><span></span><div></div></li>
+            <li>|</li>
+            <li><i></i><div></div></li>
+            <li><i></i><div></div></li>
+        </ul>
+    </div>
+</div>
+<!--------------------------头部图---------------------------------->
+<div id="header-tu">
+    <div class="header-tu-container"></div>
+</div>
+<!---------------------------导航----------------------------------->
+<div id="nav">
+    <div class="nav-container">
+        <div class="container-a"><img src="images/京东金融_24.jpg" alt="加载中"></div>
+        <ul class="container-b">
+            <li><a href="#">首页</a></li>
+            <li><a href="#">理财</a><div></div></li>
+            <li><a href="#">众筹</a><div></div></li>
+            <li><a href="#">保险</a><div></div></li>
+            <li><a href="#">白条</a><div></div></li>
+            <li><a href="#">企业金融</a><div></div></li>
+            <li><a href="#">股票</a><div></div></li>
+            <li><a href="#">东家财富</a><span></span></li>
+        </ul>
+        <div class="container-c">
+            <input type="text" placeholder="&nbsp;&nbsp;&nbsp;12期免息">
+            <span></span>
+        </div>
+        <div class="container-d">
+            <b></b>
+            <span>我的资产</span>
+            <s></s>
+            <div></div>
+        </div>
+    </div>
+</div>
+<!--------------------------侧边栏---------------------------------->
+<div id="container">
+    <div class="sidebar-container">
+        <div class="sidebar">
+            <ul class="sidebar-top">
+                <li><p>理财</p><span>京东小金库</span><span>定期理财</span><div></div><b></b></li>
+                <li><p>众筹</p><span>产品众筹</span><span>股权投资</span><div></div><b></b></li>
+                <li><p>保险</p><span>车险</span><span>旅行险</span><span>意外险</span><div></div><b></b></li>
+                <li><p>白条</p><span>京东白条</span><span>白条联名卡</span><div></div><b></b></li>
+                <li><p>投融资</p><span>动产融资</span><span>京小贷</span><div></div><b></b></li>
+                <li><p>股票</p><span>资讯</span><span>牛人</span><span>APP下载</span><div></div><b></b></li>
+            </ul>
+            <div class="sidebar-bottom">
+                <a href="#"></a>
+            </div>
+        </div>
+        <div class="banner"></div>
+        <div class="vault">
+            <div class="vault-top"><a href="#"></a></div>
+            <ul class="vault-bottom">
+                <li><a href="#"><p></p><span>优惠卷</span></a></li>
+                <li><a href="#"><p></p><span>股票</span></a></li>
+                <li><a href="#"><p></p><span>赚金币</span><b></b></a></li>
+                <li><a href="#"><p></p><span>小白信用</span></a></li>
+                <li><a href="#"><p></p><span>换钢镚</span></a></li>
+                <li><a href="#"><p></p><span>0元测评</span></a></li>
+                <li><a href="#"><p></p><span>私募股权</span></a></li>
+                <li><a href="#"><p></p><span>名家</span></a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!---------------------------金豆----------------------------------->
+<div id="jinDou">
+    <div class="jinDou-container">
+        <ul class="container-left">
+            <li><span></span>金融早报:</li>
+            <li><a href="#">最高送2%加速收益</a>:</li>
+            <li>|</li>
+            <li><a href="#">入金交易 最高送1000元</a>:</li>
+            <li>|</li>
+            <li><a href="#">帕劳，你以为的天堂却在人间</a>:</li>
+            <li>|</li>
+            <li><a href="#">领100红包+10元现金</a>:</li>
+        </ul>
+        <div class="container-right">
+            <a href="#"></a>
+        </div>
+    </div>
+</div>
+<!---------------------------活动----------------------------------->
+<div id="activity">
+    <div class="activity-container">
+        <div class="container-left">
+            <b></b>
+            <span></span>
+            <div></div>
+        </div>
+        <div class="container-right">
+            <div class="right-L">
+                <div class="L-top">
+                    <div class="top-left"><a href="#"></a></div>
+                    <div class="top-right"><a href="#"></a></div>
+                </div>
+                <div class="L-bottom"><a href="#"></a></div>
+            </div>
+            <div class="right-R">
+                <div class="R-top"><a href="#"></a></div>
+                <div class="R-bottom"><a href="#"></a></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!---------------------------------------内容-------------------------------------------------->
+<!---------------------------存钱----------------------------------->
+<div id="saveMoney">
+    <div class="saveMoney-container">
+        <div class="container-left">
+            <div class="left-top"></div>
+            <div class="left-bottom">
+                <a href="#"><p>优选理财</p></a>
+                <a href="#"><h6>定期理财</h6></a>
+                <a href="#"><span>[存钱]活动周期爆品4.32%</span></a>
+            </div>
+        </div>
+        <div class="container-right">
+            <ul class="right-top">
+                <li><a href="#">热销产品</a></li>
+                <li>|</li>
+                <li><a href="#">3个月以内</a></li>
+                <li>|</li>
+                <li><a href="#">3-6个月</a></li>
+                <li>|</li>
+                <li><a href="#">6-12个月</a></li>
+                <li>|</li>
+                <li><a href="#">1年以上</a></li>
+            </ul>
+            <ul class="right-bottom">
+                <li>
+                    <div><h3>4.24%</h3><span>七日年化收益率</span></div>
+                    <div><h4>随时存取</h4><span>存取灵活 收益日结</span></div>
+                    <div><span>0.01元起购</span></div>
+                    <div><a href="#"><span>京东小金库</span></a></div>
+                    <div><a href="#"><b>立即抢购</b></a></div>
+                </li>
+                <li>
+                    <div><h3>4.80%</h3><span>预期年化收益率</span></div>
+                    <div><h4 style="margin-top: 28px;">122天</h4></div>
+                    <div><span>1.000元起购</span></div>
+                    <div><a href="#"><span>渝信宝294号019</span></a></div>
+                    <div><a href="#"><b>立即抢购</b></a></div>
+                </li>
+                <li>
+                    <div><h3>4.80%</h3><span>预期年化收益率</span></div>
+                    <div><h4 style="margin-top: 28px;">122天</h4></div>
+                    <div><span>1.000元起购</span></div>
+                    <div><a href="#"><span>渝信宝294号018</span></a></div>
+                    <div><a href="#"><b>立即抢购</b></a></div>
+                </li>
+                <li>
+                    <div><h3>4.80%</h3><span>预期年化收益率</span></div>
+                    <div><h4 style="margin-top: 28px;">126天</h4></div>
+                    <div><span>5.000元起购</span></div>
+                    <div><a href="#"><span>京盛80号043</span></a></div>
+                    <div><a href="#"><b>立即抢购</b></a></div>
+                </li>
+                <li>
+                    <div><h3>4.80%</h3><span>预期年化收益率</span></div>
+                    <div><h4 style="margin-top: 28px;">126天</h4></div>
+                    <div><span>5.000元起购</span></div>
+                    <div><a href="#"><span>京盛80号017</span></a></div>
+                    <div><a href="#"><b>立即抢购</b></a></div>
+                </li>
+                <li>
+                    <div><h3>5.80%</h3><span>预期年化收益率</span></div>
+                    <div><h4 style="margin-top: 28px;">855天</h4></div>
+                    <div><span>5.000元起购</span></div>
+                    <div><a href="#"><span>京盛79号020</span></a></div>
+                    <div><a href="#"><b>立即抢购</b></a></div>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!---------------------------花钱----------------------------------->
+<div id="spendMoney">
+    <div class="spendMoney-container">
+        <div class="container-left">
+            <div class="left-top"></div>
+            <div class="left-bottom">
+                <a href="#"><p>白条</p></a>
+                <div>
+                    <a href="#"><h6>校园特权</h6></a>
+                    <a href="#"><h6>小白卡</h6></a>
+                    <a href="#"><h6>安居白条</h6></a>
+                    <a href="#"><h6>旅游白条</h6></a>
+                </div>
+                <a href="#"><span>[花钱]白条闪付 吃喝玩乐打白条</span></a>
+            </div>
+        </div>
+        <div class="container-right">
+            <div class="right-a">
+                <div class="a-top">
+                    <h2><a href="#">学生充值专享最高减20元</a></h2>
+                    <p><a href="#">立即充值</a></p>
+                    <div></div>
+                </div>
+                <div class="a-bottom">
+                    <h2><a href="#">小白信用尊享特权信用权益升级</a></h2>
+                    <p><a href="#">速领取</a></p>
+                    <div></div>
+                </div>
+            </div>
+            <div class="right-b">
+                <h2><a href="#">送6期白条免息新人首刷送礼包</a></h2>
+                <p><a href="#">立即办卡</a></p>
+                <div></div>
+            </div>
+            <div class="right-c">
+                <div class="a-top">
+                    <h2><a href="#">京东白条微信公众号每日签到领京豆</a></h2>
+                    <p><a href="#">去关注</a></p>
+                    <div></div>
+                </div>
+                <div class="a-bottom">
+                    <h2><a href="#">金融会员专享白条满减卷</a></h2>
+                    <p><a href="#">每天9:30开始</a></p>
+                    <div></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!---------------------------保障----------------------------------->
+<div id="safeguard">
+    <div class="safeguard-container">
+        <div class="container-left">
+            <div class="left-top"></div>
+            <div class="left-bottom">
+                <a href="#"><p>保险</p></a>
+                <div>
+                    <a href="#"><h6>我的保障</h6></a>
+                    <a href="#"><h6>意外保险</h6></a>
+                    <a href="#"><h6>健康保险</h6></a>
+                </div>
+                <a href="#"><span>[保险]增值保障ta周全</span></a>
+            </div>
+        </div>
+        <div class="container-right">
+            <div class="right-a">
+                <div class="a-top">
+                    <h2><a href="#">学生充值专享最高减20元</a></h2>
+                    <p><a href="#">立即充值</a></p>
+                    <div></div>
+                </div>
+                <div class="a-bottom">
+                    <h2><a href="#">小白信用尊享特权信用权益升级</a></h2>
+                    <p><a href="#">速领取</a></p>
+                    <div></div>
+                </div>
+            </div>
+            <div class="right-b">
+                <h2><a href="#">送6期白条免息新人首刷送礼包</a></h2>
+                <p><a href="#">立即办卡</a></p>
+                <div></div>
+            </div>
+            <div class="right-c">
+                <div class="a-top">
+                    <h2><a href="#">京东白条微信公众号每日签到领京豆</a></h2>
+                    <p><a href="#">去关注</a></p>
+                    <div></div>
+                </div>
+                <div class="a-bottom">
+                    <h2><a href="#">金融会员专享白条满减卷</a></h2>
+                    <p><a href="#">每天9:30开始</a></p>
+                    <div></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!---------------------------服务----------------------------------->
+<div id="serve">
+    <div class="serve-container">
+        <div class="container-left">
+            <div class="left-top"></div>
+            <div class="left-bottom">
+                <a href="#"><p>京东金融APP</p></a>
+                <div>
+                    <a href="#"><h6>京东钱包</h6></a>
+                    <a href="#"><h6>京东支付</h6></a>
+                </div>
+                <a href="#"><span>[生活]银行品牌月特惠</span></a>
+            </div>
+        </div>
+        <div class="container-right">
+            <div class="right-a">
+                <div class="a-top">
+                    <h2><a href="#">京东金融微信公众号关注立领白条卷</a></h2>
+                    <p><a href="#">立即关注</a></p>
+                    <div></div>
+                </div>
+                <div class="a-bottom">
+                    <h2><a href="#">京东超市购物返现金购物0元起</a></h2>
+                    <p><a href="#">天天有返利</a></p>
+                    <div></div>
+                </div>
+            </div>
+            <div class="right-b">
+                <h2><a href="#">春季个护返现金下单</a></h2>
+                <p><a href="#">100%领钱</a></p>
+                <div></div>
+            </div>
+            <div class="right-c">
+                <div class="a-top">
+                    <h2><a href="#">银行满减不停歇京东支付专享</a></h2>
+                    <p><a href="#">最高满200减100</a></p>
+                    <div></div>
+                </div>
+                <div class="a-bottom">
+                    <h2><a href="#">购京东薄款这里更低价</a></h2>
+                    <p><a href="#">购物立项返现金</a></p>
+                    <div></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-------------------------合作机构--------------------------------->
+<div id="cooperation">
+    <div class="cooperation-container">
+        <div>合作机构</div>
+        <ul>
+            <li><a href="#"></a></li>
+            <li><a href="#"></a></li>
+            <li><a href="#"></a></li>
+            <li><a href="#"></a></li>
+            <li><a href="#"></a></li>
+            <li><a href="#"></a></li>
+            <li><a href="#"></a></li>
+            <li><a href="#"></a></li>
+            <li><a href="#"></a></li>
+            <li><a href="#"></a></li>
+            <li><a href="#"></a></li>
+            <li><a href="#"></a></li>
+            <li><a href="#"></a></li>
+            <li><a href="#"></a></li>
+        </ul>
+    </div>
+</div>
+<!---------------------------页尾--------------------------------->
+<div id="footer">
+    <div class="footer-container">
+        <div class="container-left">
+            <ul>
+                <li><a href="#">关于京东金融</a></li>
+                <li>|</li>
+                <li><a href="#">关于京东小金库</a></li>
+                <li>|</li>
+                <li><a href="#">关于京东白条</a></li>
+                <li>|</li>
+                <li><a href="#">联系我们</a></li>
+                <li>|</li>
+                <li><a href="#">免责申明</a></li>
+                <li>|</li>
+                <li><a href="#">经营证照</a></li>
+            </ul>
+            <p>Copyright © 2004-2017 京东JD.com 版权所有|投资有风险，购买需谨慎</p>
+        </div>
+        <div class="container-right">
+            <h1>联系我们</h1>
+            <ul>
+                <li><a href="#"><span></span>&nbsp;24小时专属客服</a></li>
+                <li>|</li>
+                <li><a href="#"><span></span>&nbsp;在线客服</a></li>
+                <li>|</li>
+                <li><a href="#"><span></span>&nbsp;客服邮箱</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<script src="js/less.min.js"></script>
+</body>
+</html>

@@ -1,0 +1,36 @@
+*{margin: 0;padding: 0;list-style: none;text-decoration: none;}
+
+#header{width: 100%;height: 100px;background-color: #1a1641;overflow: hidden;}
+#header .header-container{width: 1250px;height: 100px;margin:0 auto;position: relative;}
+#header .header-container .misMark{width: 15px;height: 15px;position: absolute;top: 3px;right: 55px;}
+#header .header-container .misMark:hover{cursor: pointer;}
+
+
+
+#nav{width: 100%;height: 35px;background-color: #f5f5f5;border-bottom: 1px solid #eeeeee;}
+#nav .nav-container{width: 1200px;height: 35px;margin:0 auto;}
+#nav .nav-container .container-left{width: 180px;height: 35px;float: left;}
+#nav .nav-container .container-left li{position: relative;float: left; color: #666666;width: 85px;padding-left:4px; }
+#nav .nav-container .container-left li a{font-size: 11px;text-align:center;color: #666666;width: 60px;line-height: 35px;height: 35px;display: block;float: left}
+#nav .nav-container .container-left li span{display: block;width:19px;height: 35px;background: url("images/nav/1.png") no-repeat center;float: left;background-size: 100%;}
+#nav .nav-container .container-left .first div{height: 245px;width: 980px;position: absolute;top:36px;left: -1px;border:1px solid #eeeeee;display: none;}
+#nav .nav-container .container-left .second div{height: 96px;width: 170px;position: absolute;top:36px;left: -1px;border:1px solid #eeeeee;display: none;}
+#nav .nav-container .container-left li:hover{background: white;}
+#nav .nav-container .container-left li:hover b{display:block;background: white;position: absolute;width: 89px;height: 2px;top:35px;left: -2px;}
+#nav .nav-container .container-left .first:hover div{display: block;border-top:none;}
+#nav .nav-container .container-left .second:hover div{display: block;border-top:none;}
+#nav .nav-container .container-left li:hover span{background: url("images/nav/3.png") no-repeat center;background-size: 100%;}
+#nav .nav-container .container-left .second:hover s{position: absolute;top:27px;display: block;width: 55px;height: 1px;background: red;left: 5px;}
+#nav .nav-container .container-left .second:hover a{color: red;}
+
+#nav .nav-container .container-right{width:640px;height:35px;float: right;margin-right:35px;}
+#nav .nav-container .container-right li{float: left;height: 35px;padding: 5px;}
+#nav .nav-container .container-right li a{font-size: 11px;color: #666666;}
+#nav .nav-container .container-right li span{display: block;width:19px;height: 25px;background: url("images/nav/1.png") no-repeat center;float: right;background-size: 100%;}
+#nav .nav-container .container-right li:hover a{color: red;}
+#nav .nav-container .container-right .a:hover {background: white;}
+#nav .nav-container .container-right li:hover span{background: url("images/nav/3.png") no-repeat center;background-size: 100%;}
+#nav .nav-container .container-right .first s{display: block;margin-right: 5px;width: 15px;height:22px;float: left;background: url("images/nav/4.gif") no-repeat center;background-size: 100%;}
+#nav .nav-container .container-right .second s{display: block;margin-right: 5px;width: 15px;height:22px;float: left;background: url("images/nav/5.gif") no-repeat center;background-size: 100%;}
+
+
