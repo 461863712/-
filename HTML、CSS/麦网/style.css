@@ -1,0 +1,335 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+  font-size: 12px;
+}
+/*-----------------------------页头-----------------------------*/
+#header {
+  width: 100%;
+  height: 23px;
+  background-color: #f5f5f5;
+  border-bottom: 1px solid #e9e9e9;
+}
+#header .header-container {
+  width: 1003px;
+  height: 23px;
+  margin: 0 auto;
+}
+#header .header-container .container-left {
+  width: 120px;
+  height: 23px;
+  float: left;
+  overflow: hidden;
+}
+#header .header-container .container-left li {
+  line-height: 23px;
+  float: left;
+  margin-right: 20px;
+}
+#header .header-container .container-left li a {
+  color: #848484;
+}
+#header .header-container .container-left li a:hover {
+  color: #ef2d6b;
+  border-bottom: 1px solid #ef2d6b;
+}
+#header .header-container .container-right {
+  width: 747px;
+  height: 23px;
+  float: right;
+}
+#header .header-container .container-right li {
+  float: right;
+  line-height: 23px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+#header .header-container .container-right li span {
+  width: 7px;
+  height: 5px;
+  display: block;
+  float: right;
+  background-image: url("images/m18_09.png");
+  margin-left: 10px;
+  margin-top: 9px;
+}
+#header .header-container .container-right li a {
+  color: #848484;
+}
+#header .header-container .container-right li:nth-child(7) {
+  overflow: hidden;
+}
+#header .header-container .container-right li:nth-child(4) {
+  overflow: hidden;
+}
+#header .header-container .container-right li:nth-child(3) {
+  overflow: hidden;
+}
+#header .header-container .container-right li:nth-child(5) {
+  overflow: hidden;
+}
+#header .header-container .container-right li:nth-child(5) s {
+  display: block;
+  width: 16px;
+  height: 15px;
+  float: left;
+  margin-top: 3px;
+  margin-right: 8px;
+  background-image: url("images/m18_03.png");
+}
+#header .header-container .container-right li:nth-child(4) {
+  overflow: hidden;
+}
+#header .header-container .container-right li:nth-child(4) s {
+  display: block;
+  width: 9px;
+  height: 13px;
+  float: left;
+  margin-top: 4px;
+  margin-right: 8px;
+  background-image: url("images/m18_06.png");
+}
+#header .header-container .container-right li:nth-child(2) {
+  background-color: #cf1111;
+  overflow: hidden;
+}
+#header .header-container .container-right li:nth-child(2) a {
+  color: #fff;
+}
+#header .header-container .container-right li:nth-child(2):hover a {
+  color: #fff;
+  border-bottom: 1px solid #fff;
+}
+#header .header-container .container-right li:nth-child(1) {
+  border-right: 1px solid #e9e9e9;
+  position: relative;
+}
+#header .header-container .container-right li:nth-child(1) div {
+  position: absolute;
+  display: none;
+  width: 84px;
+  height: 70px;
+  left: 0;
+  border: 1px solid #e9e9e9;
+  background-image: url("images/文字转换.png");
+}
+#header .header-container .container-right li:nth-child(1):hover div {
+  display: block;
+}
+#header .header-container .container-right li:hover a {
+  color: #ef2d6b;
+}
+#header .header-container .container-right li:nth-child(6) {
+  position: relative;
+}
+#header .header-container .container-right li:nth-child(6) div {
+  position: absolute;
+  width: 109px;
+  display: none;
+  left: 0;
+  border: 1px solid #e9e9e9;
+  height: 95px;
+  background-image: url("images/购物信息.png");
+}
+#header .header-container .container-right li:nth-child(6):hover div {
+  display: block;
+}
+/*-----------------------------login-----------------------------*/
+#login {
+  width: 100%;
+  height: 98px;
+}
+#login .login-container {
+  width: 1003px;
+  height: 98px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+#login .login-container .container-left {
+  width: 221px;
+  height: 36px;
+  margin-top: 40px;
+  margin-left: 10px;
+  float: left;
+  background-image: url("images/m18_23.png");
+}
+#login .login-container .container-right {
+  width: 574px;
+  height: 98px;
+  float: right;
+}
+#login .login-container .container-right .top {
+  width: 566px;
+  height: 32px;
+  background-color: blue;
+  margin-top: 25px;
+  border: 4px solid #e92323;
+}
+#login .login-container .container-right .top input {
+  float: left;
+  width: 488px;
+  height: 32px;
+  border: none;
+}
+#login .login-container .container-right .top a {
+  float: left;
+  width: 78px;
+  height: 32px;
+  background-color: #e92323;
+  text-align: center;
+  line-height: 32px;
+  font-size: 14px;
+  font-weight: bold;
+  color: #fff;
+}
+#login .login-container .container-right .bottom {
+  width: 574px;
+  height: 30px;
+}
+#login .login-container .container-right .bottom li {
+  float: left;
+  margin-right: 10px;
+  line-height: 30px;
+}
+#login .login-container .container-right .bottom li span {
+  color: #000;
+  font-size: 14px;
+}
+#login .login-container .container-right .bottom li a {
+  color: #777;
+}
+#login .login-container .container-right .bottom li a:hover {
+  color: #ef2d6b;
+  border-bottom: 1px solid #ef2d6b;
+}
+/*-----------------------------导航-----------------------------*/
+#nav {
+  width: 100%;
+  height: 36px;
+}
+#nav .nav-container {
+  width: 1003px;
+  height: 36px;
+  background-color: #c00;
+  margin: 0 auto;
+}
+#nav .nav-container ul {
+  width: 1003px;
+  height: 36px;
+}
+#nav .nav-container ul li {
+  float: left;
+  width: 16.66%;
+  height: 36px;
+  position: relative;
+}
+#nav .nav-container ul li a {
+  max-width: 167.1px;
+  height: 100%;
+  display: block;
+  line-height: 36px;
+  text-align: center;
+  border-right: 1px solid #7f0304;
+  color: #fff;
+  font-size: 14px;
+  font-weight: bold;
+}
+#nav .nav-container ul li div {
+  display: none;
+  position: absolute;
+  width: 610px;
+  top: 36px;
+  height: 415px;
+  z-index: 100;
+  border: 1px solid #7f0304;
+  border-top: none;
+  background-color: yellow;
+}
+#nav .nav-container ul li:hover a {
+  width: 166.1px;
+  height: 35px;
+  line-height: 35px;
+  border-top: 1px solid #7f0304;
+  background-color: #fff;
+  color: #cc0000;
+}
+#nav .nav-container ul li:hover div {
+  display: block;
+}
+#nav .nav-container ul li:first-child:hover a {
+  border-left: 1px solid #7f0304;
+  width: 165.1px;
+}
+#nav .nav-container ul li:first-child:hover div {
+  left: 0;
+  background-image: url("images/nav1.png");
+  background-size: 100%;
+}
+#nav .nav-container ul li:nth-child(2) div {
+  left: -1px;
+  background-image: url("images/nav2.png");
+  background-size: 100%;
+  height: 225px;
+}
+#nav .nav-container ul li:nth-child(3) div {
+  left: -1px;
+  background-image: url("images/nav3.png");
+  background-size: 100%;
+  height: 335px;
+}
+#nav .nav-container ul li:nth-child(4) div {
+  left: -110px;
+  background-image: url("images/nav4.png");
+  background-size: 100%;
+  height: 255px;
+}
+#nav .nav-container ul li:nth-child(5) div {
+  left: -277px;
+  background-image: url("images/nav5.png");
+  background-size: 100%;
+  height: 285px;
+}
+#nav .nav-container ul li:last-child a {
+  border-right: none;
+  width: 167.1px;
+}
+#nav .nav-container ul li:last-child div {
+  left: -444px;
+  background-image: url("images/nav6.png");
+  background-size: 100%;
+  height: 365px;
+}
+#nav .nav-container ul li:last-child:hover a {
+  border-right: 1px solid #7f0304;
+}
+/*-----------------------------图-----------------------------*/
+#tu {
+  width: 100%;
+  height: 120px;
+  margin-top: 10px;
+}
+#tu .tu-container {
+  width: 1003px;
+  height: 120px;
+  margin: 0 auto;
+  background-image: url("images/m18_30.png");
+}
+#tu .tu-container a {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+/*-----------------------------banner-----------------------------*/
+#banner {
+  width: 100%;
+  height: 300px;
+  margin-top: 15px;
+}
+#banner .banner-container {
+  width: 1003px;
+  height: 300px;
+  margin: 0 auto;
+  background-color: yellow;
+}
