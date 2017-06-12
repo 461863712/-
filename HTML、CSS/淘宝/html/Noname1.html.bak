@@ -1,0 +1,2006 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8"/>
+	<title>淘宝网</title>
+	<link rel="stylesheet" type="text/css" href="../css/Noname2.css"/>
+</head>
+<body>
+	<div id="header">
+		<div class="header_a">
+			<div class="header_left">
+				<ul>
+					<li><span><a href="#">亲，请登录</a></span></li>
+					<li><a href="#">免费注册</a></li>
+					<li><a href="#">手机逛淘宝</a></li>
+				</ul>
+			</div>
+			<div class="header_right">
+				<ul>
+					<li>
+						<a href="#">我的淘宝</a>
+						<s></s>
+					</li>
+					<li>
+						<img src="../images/a.gif"/>
+						<a href="#">购物车</a>
+						<s></s>
+					</li>
+					<li>
+						<img src="../images/a1.gif"/>
+						<span><a href="#">收藏夹</a></span>
+						<span><s></s></span>
+					</li>
+					<li>
+						<div class="li">
+						<a href="#">商品分类</a>
+						<b>|</b>
+						</div class="li">
+					</li>
+					<li>
+						<a href="#">卖家中心</a>
+						<span><s></s></span>
+					</li>
+					<li>
+						<a href="#">联系客服</a>
+						<span><s></s></span>
+					</li>
+					<li>
+						<img src="../images/a2.gif"/>
+						<a href="#">网站导航</a>
+						<span><s></s></span>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<div id="logo">
+		<div class="logo1">
+			<div class="logo_left">
+				<a href="#"><img src="../images/b.gif"/></a>
+			</div>
+			<div class="logo_center">
+				<div class="logo_top">
+					<ul>
+						<li><div class="logo_top1"><a href="#">宝贝</a></div></li>
+						<li><div class="logo_top2"><a href="#">天猫</a></div></li>
+						<li><div class="logo_top2"><a href="#">店铺</a></div></li>
+					</ul>
+				</div>
+				<div class="logo_middle">
+					<div class="logo_middle1">
+						<input placeholder="安踏奥运狂欢"/>
+					</div>
+					<div class="logo_middle2">
+						<a href="#"><img src="../images/b1.gif"/></a>
+					</div>
+					<div class="logo_middle3"><a href="#">搜索</a></div>
+				</div>
+				<a href="#" class="aaaa">高级搜索</a>
+				<div class="logo_bottom">
+					<div class="logo_bottom1">
+						<span><a href="#">内存卡</a></span>
+						<a href="#">男双肩包</a>
+						<span><a href="#">笔记本999</a></span>
+						<a href="#">u盘</a>
+						<a href="#">双肩包</a>
+						<span><a href="#">移动硬盘</a></span>
+						<a href="#">手机</a>
+						<a href="#">时尚女包</a>
+						<a href="#">连衣裙</a>
+						<a href="#">休闲短裤</a>
+						<a href="#">女T恤</a>
+						<a href="#">男包</a>
+					</div>
+					<div class="logo_bottom2">
+						<a href="#">更多〉</a>
+					</div>
+				</div>
+			</div>
+			<div class="logo_right">
+				<div class="logo_right1">
+					<a href="#"><img src="../images/b2.gif"/></a>
+				</div>
+				<div class="logo_right2">
+					<a href="#"><img src="../images/b3.gif"/></a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="menu">
+		<div class="menu1">
+			<div class="menu_top">
+				<div class="menu_top1">
+					<span><a href="#">主题市场</a></span>
+					<a href="#"><img src="../images/c.gif"/></a>
+				</div>
+				<div class="menu_top2">
+					<div class="menu_top2_1">
+						<ul>
+						<li><a href="#">天猫</a></li>
+						<li><a href="#">聚划算</a></li>
+						<li><a href="#">天猫超市</a></li>
+						</ul>
+					</div>
+					<div class="menu_top2_2 menu_top2_1">
+						<ul>
+						<li><span>|</span></li>
+						<li><a href="#">淘抢购</a></li>
+						<li><a href="#">电器城</a></li>
+						<li><a href="#">司法拍卖</a></li>
+						<li><a href="#">中国制造</a></li>
+						<li><a href="#">特色中国</a></li>
+						</ul>
+					</div>
+					<div class="menu_top2_3 menu_top2_1">
+					<ul>
+						<li><span>|</span></li>
+						<li><a href="#">阿里旅行</a></li>
+						<li><a href="#">智能生活</a></li>
+						<li><a href="#">苏宁易购</a></li>
+						</ul></div>
+				</div>
+			</div>
+		</div>
+		<div class="menu2">
+			<div class="menu_bottom">
+				<div class="menu_bottom-left">
+					<div class="menu_bottom-left_top">
+						<div class="menu_bottom-left_top_1">
+							<ul>
+								<li>
+									<img src="../images/d1.gif"/>
+									<a href="#">女装</a><span>/</span>
+									<a href="#">男装</a><span>/</span>
+									<a href="#">内衣</a><i>〉</i>
+								</li>
+								<li>
+									<img src="../images/d2.gif"/>
+									<a href="#">鞋靴</a><span>/</span>
+									<a href="#">箱包</a><span>/</span>
+									<a href="#">配件</a><i>〉</i>
+								</li>
+								<li>
+									<img src="../images/d3.gif"/>
+									<a href="#">童装玩具</a><span>/</span>
+									<a href="#">孕产</a><span>/</span>
+									<a href="#">用</a><i>〉</i>
+								</li>
+								<li>
+									<img src="../images/d4.gif"/>
+									<a href="#">家电</a><span>/</span>
+									<a href="#">数码</a><span>/</span>
+									<a href="#">手机</a><i>〉</i>
+								</li>
+								<li>
+									<img src="../images/d5.gif"/>
+									<a href="#">美妆</a><span>/</span>
+									<a href="#">洗护</a><span>/</span>
+									<a href="#">保健品</a><i>〉</i>
+								</li>
+								<li>
+									<img src="../images/d6.gif"/>
+									<a href="#">珠宝</a><span>/</span>
+									<a href="#">眼睛</a><span>/</span>
+									<a href="#">手表</a><i>〉</i>
+								</li>
+								<li>
+									<img src="../images/d7.gif"/>
+									<a href="#">运动</a><span>/</span>
+									<a href="#">户外</a><span>/</span>
+									<a href="#">乐器</a><i>〉</i>
+								</li>
+								<li>
+									<img src="../images/d8.gif"/>
+									<a href="#">游戏</a><span>/</span>
+									<a href="#">动漫</a><span>/</span>
+									<a href="#">影视</a><i>〉</i>
+								</li>
+								<li>
+									<img src="../images/d9.gif"/>
+									<a href="#">美食</a><span>/</span>
+									<a href="#">生鲜</a><span>/</span>
+									<a href="#">零食</a><i>〉</i>
+								</li>
+								<li>
+									<img src="../images/d10.gif"/>
+									<a href="#">鲜花</a><span>/</span>
+									<a href="#">宠物</a><span>/</span>
+									<a href="#">农资</a><i>〉</i>
+								</li>
+								<li>
+									<img src="../images/d11.gif"/>
+									<a href="#">房产</a><span>/</span>
+									<a href="#">装修</a><span>/</span>
+									<a href="#">建材</a><i>〉</i>
+								</li>
+								<li>
+									<img src="../images/d12.gif"/>
+									<a href="#">家具</a><span>/</span>
+									<a href="#">家饰</a><span>/</span>
+									<a href="#">家纺</a><i>〉</i>
+								</li>
+								<li>
+									<img src="../images/d13.gif"/>
+									<a href="#">汽车</a><span>/</span>
+									<a href="#">二手车</a><span>/</span>
+									<a href="#">用品</a><i>〉</i>
+								</li>
+								<li>
+									<img src="../images/d14.gif"/>
+									<a href="#">办公</a><span>/</span>
+									<a href="#">DIY</a><span>/</span>
+									<a href="#">五金电子</a><i>〉</i>
+								</li>
+								<li>
+									<img src="../images/d15.gif"/>
+									<a href="#">百货</a><span>/</span>
+									<a href="#">收纳</a><span>/</span>
+									<a href="#">家庭保</a><i>〉</i>
+								</li>
+								<li>
+									<img src="../images/d16.gif"/>
+									<a href="#">学习</a><span>/</span>
+									<a href="#">卡卷</a><span>/</span>
+									<a href="#">本地服</a><i>〉</i>
+								</li>
+							</ul>
+							<a href="#"><img src="../images/dd.gif"/></a>
+						</div>
+						<div class="menu_bottom-left_top_2">
+							<div class="menu_bottom-left_top_2_top">
+								<div class="lunbotu1"><a href="#"><img src="../images/e1.gif"/></a></div>
+								<div class="tupian1"><a href="#"><img src="../images/e2.gif"/></a><p>今日热卖</p></div>
+							</div>
+							<div class="menu_bottom-left_top_2_bottom">
+								<div class="lunbotu2">
+									<a href="#"><img src="../images/e3.gif"/></a>
+									<a href="#"><img src="../images/e4.gif"/></a>
+								</div>
+								<div class="tupian2"><a href="#"><img src="../images/e5.gif"/></a></div>
+							</div>
+						</div>
+					</div>
+					<div class="menu_bottom-left_bottom">
+						<a href="#" class="menu_bottom-left_bottom1">
+							<img src="../images/f1.jpg"/>
+							<s>蕾丝控</s><br/>
+							<p>少女蕾丝心</p><br/>
+							<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;人气116147</span>
+						</a>
+						<a href="#" class="menu_bottom-left_bottom2">
+							<img src="../images/f2.jpg"/>
+							<s>COS巨巨</s><br/>
+							<p>次元壁已突破</p><br/>
+							<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;人气116147</span>
+						</a>
+						<a href="#" class="menu_bottom-left_bottom3">
+							<img src="../images/f3.jpg"/>
+							<s>气质女神</s><br/>
+							<p>傻白甜慎入</p><br/>
+							<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;人气116147</span>
+						</a>
+						<a href="#" class="menu_bottom-left_bottom4">
+							<img src="../images/f4.jpg"/>
+							<s>复古女郎</s><br/>
+							<p>上了复古的瘾</p><br/>
+							<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;人气116147</span>
+						</a>
+						<a href="#" class="menu_bottom-left_bottom5">
+							<img src="../images/f5.jpg"/>
+							<s>装修家</s><br/>
+							<p>装扮我的家</p><br/>
+							<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;人气116147</span>
+						</a>
+					</div>
+				</div>
+				<div class="menu_bottom-right">
+					<div class="menu_bottom-right1">
+						<a href="#"><img src="../images/g2.jpg"/></a>
+						<h2>HI！你好</h2>
+						<p><span>&nbsp;&nbsp;领淘金币抵钱</span>或去<span>会员俱乐部</span></p>
+						<ul>
+							<li><a href="#">登陆</a></li>
+							<li><a href="#">注册</a></li>
+							<li><a href="#">开店</a></li>
+						</ul>
+					</div>
+					<div class="menu_bottom-right2">
+						<ul>
+							<li class="right_li"><a href="#">公告</a></li>
+							<li><a href="#">规则</a></li>
+							<li><a href="#">论坛</a></li>
+							<li><a href="#">安全</a></li>
+							<li><a href="#">公益</a></li>
+						</ul>
+						<b></b>
+						<h3><a href="#">天猫联手浙江卫视打造2016年双11“春晚”</a></h3>
+						<p><a href="#">淘宝新规定严惩恶意骚扰 阿里安全峰会在京召开</a></p>
+					</div>
+					<div class="menu_bottom-right3">
+						<ul>
+							<li>
+								<a href="#" class="right3_1">
+									<span></span>
+									<p>充话费</p>
+								</a>
+							</li>
+							<li>
+								<a href="#" class="right3_2">
+									<span></span>
+									<p>游戏</p>
+								</a>
+							</li>
+							<li>
+								<a href="#" class="right3_3">
+									<span></span>
+									<p>旅行</p>
+								</a>
+							</li>
+							<li>
+								<a href="#" class="right3_4">
+									<span></span>
+									<p>保险</p>
+								</a>
+							</li>
+							<li>
+								<a href="#" class="right3_5">
+									<span></span>
+									<p>彩票</p>
+								</a>
+							</li>
+							<li>
+								<a href="#" class="right3_6">
+									<span></span>
+									<p>电影</p>
+								</a>
+							</li>
+							<li>
+								<a href="#" class="right3_7">
+									<span></span>
+									<p>点外卖</p>
+								</a>
+							</li>
+							<li>
+								<a href="#" class="right3_8">
+									<span></span>
+									<p>理财</p>
+								</a>
+							</li>
+							<li>
+								<a href="#" class="right3_9">
+									<span></span>
+									<p>找服务</p>
+								</a>
+							</li>
+							<li>
+								<a href="#" class="right3_10">
+									<span></span>
+									<p>音乐</p>
+								</a>
+							</li>
+							<li>
+								<a href="#" class="right3_11">
+									<span></span>
+									<p>水电煤</p>
+								</a>
+							</li>
+							<li>
+								<a href="#" class="right3_12">
+									<span></span>
+									<p>火车票</p>
+								</a>
+							</li>
+						</ul>
+					</div>
+					<div class="menu_bottom-right4">
+						<div class="menu_bottom-right4_top">
+							<a href="#"><b>阿里APP</b></a>
+							<span><a href="#">更多></a></span>
+						</div>
+						<div class="menu_bottom-right4_bottom">
+							<ul>
+								<li><a href="#" class="alitubiao_1"></a></li>
+								<li><a href="#" class="alitubiao_2"></a></li>
+								<li><a href="#" class="alitubiao_3"></a></li>
+								<li><a href="#" class="alitubiao_4"></a></li>
+								<li><a href="#" class="alitubiao_5"></a></li>
+								<li><a href="#" class="alitubiao_6"></a></li>
+								<li><a href="#" class="alitubiao_7"></a></li>
+								<li><a href="#" class="alitubiao_8"></a></li>
+								<li><a href="#" class="alitubiao_9"></a></li>
+								<li><a href="#" class="alitubiao_10"></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="main">
+		<div class="main1">
+<!--------------------------------我常逛的左面-------------------------------------------->
+			<div class="main_left">
+				<div class="main_left1">
+					<img src="../images/j1.gif">
+					<a href="#">更多></a>
+				</div>
+<!-------------------------------二----------------------------------------------->
+				<div class="main_left2">
+					<div class="main_left2_left">
+						<div class="taobaojiaoyu">
+							<div class="taobaojiaoyu1">
+								<a href="#"><img src="../images/j2.gif"/></a>
+							</div>
+							<div class="taobaojiaoyu2">
+								<h1>热门TOP</h1>
+								<ul>
+									<li><a href="#">&nbsp;&nbsp;新概念英语&nbsp;&nbsp;</a></li>
+									<li><a href="#">&nbsp;&nbsp;中小学辅导&nbsp;&nbsp;</a></li>
+									<li><a href="#">&nbsp;&nbsp;宝宝早教&nbsp;&nbsp;</a></li>
+									<li><a href="#">&nbsp;&nbsp;四六级&nbsp;&nbsp;</a></li>
+									<li><a href="#">&nbsp;&nbsp;专升本&nbsp;&nbsp;</a></li>
+									<li><a href="#">&nbsp;&nbsp;游泳课程&nbsp;&nbsp;</a></li>
+									<li><a href="#">&nbsp;&nbsp;少儿英语&nbsp;&nbsp;</a></li>
+									<li><a href="#">&nbsp;&nbsp;DIY手工&nbsp;&nbsp;</a></li>
+									<li><a href="#">&nbsp;&nbsp;GAD教程&nbsp;&nbsp;</a></li>
+								</ul>
+							</div>
+						</div>
+						<div class="zigekaoshi">
+							<div class="zigekaoshi_top">
+								<div class="zigekaoshi_top1"><a href="#"><img src="../images/j3.gif"/></a></div>
+								<div class="zigekaoshi_top2"><a href="#"><img src="../images/j4.gif"/></a></div>
+								<div class="zigekaoshi_top3">
+									<div class="zigekaoshi_top3_1"><a href="#"><img src="../images/j5.gif"/></a></div>
+									<div class="zigekaoshi_top3_2"><a href="#"><img src="../images/j6.gif"/></a></div>
+								</div>
+							</div>
+							<div class="zigekaoshi_bottom">
+								<div class="zigekaoshi_bottom1">
+									<a href="#">
+										<img src="../images/j7.jpg"/>
+										<span><b>驾校</b><s>学车全程无忧</s></span>
+									</a>
+								</div>
+								<div class="zigekaoshi_bottom2">
+									<div class="zigekaoshi_bottom2_1">
+										<a href="#"><img src="../images/j8.gif"/></a>
+									</div>
+									<div class="zigekaoshi_bottom2_2">
+										<a href="#"><img src="../images/j9.gif"/></a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="main_left2_right">
+						<div class="taobaojiaoyu">
+							<div class="taobaojiaoyu1 taobaohuichi1">
+								<a href="#"><img src="../images/k1.gif"/></a>
+							</div>
+							<div class="taobaojiaoyu2 taobaohuichi2">
+								<h1>热门TOP</h1>
+								<ul>
+									<li><a href="#">&nbsp;&nbsp;泰国榴莲&nbsp;&nbsp;</a></li>
+									<li><a href="#">&nbsp;&nbsp;麻辣小龙虾&nbsp;&nbsp;</a></li>
+									<li><a href="#">&nbsp;&nbsp;樱桃&nbsp;&nbsp;</a></li>
+									<li><a href="#">&nbsp;&nbsp;木瓜&nbsp;&nbsp;</a></li>
+									<li><a href="#">&nbsp;&nbsp;鲜虾&nbsp;&nbsp;</a></li>
+									<li><a href="#">&nbsp;&nbsp;苹果&nbsp;&nbsp;</a></li>
+									<li><a href="#">&nbsp;&nbsp;芒果&nbsp;&nbsp;</a></li>
+									<li><a href="#">&nbsp;&nbsp;粽子&nbsp;&nbsp;</a></li>
+									<li><a href="#">&nbsp;&nbsp;牛排&nbsp;&nbsp;</a></li>
+									<li><a href="#">&nbsp;&nbsp;橙子&nbsp;&nbsp;</a></li>
+									<li><a href="#">&nbsp;&nbsp;核桃&nbsp;&nbsp;</a></li>
+									<li><a href="#">&nbsp;&nbsp;西湖龙井&nbsp;&nbsp;</a></li>
+									<li><a href="#">&nbsp;&nbsp;农家蜂蜜&nbsp;&nbsp;</a></li>
+								</ul>
+							</div>
+						</div>
+						<div class="zigekaoshi">
+							<div class="zigekaoshi_top">
+								<div class="zigekaoshi_top1"><a href="#"><img src="../images/k2.gif"/></a></div>
+								<div class="zigekaoshi_top2">
+									<div class="malayixia_top1"><a href="#"><img src="../images/k3.gif"/></a></div>
+									<div class="malayixia_top2"><a href="#"><img src="../images/k4.gif"/></a></div>
+								</div>
+								<div class="zigekaoshi_top3">
+									<a href="#"><img src="../images/k5.gif"/></a>
+								</div>
+							</div>
+							<div class="zigekaoshi_bottom">
+								<div class="malayixia_bottom1">
+									<ul>
+										<li>
+											<a href><img src="../images/k6.gif"/></a>
+											<p>零食礼包</p>
+										</li>
+										<li>
+											<a href><img src="../images/k7.gif"/></a>
+											<p>葡萄酒</p>
+										</li>
+										<li>
+											<a href><img src="../images/k8.gif"/></a>
+											<p>糕点</p>
+										</li>
+										<li>
+											<a href><img src="../images/k9.gif"/></a>
+											<p>方便面</p>
+										</li>
+									</ul>
+								</div>
+								<div class="malayixia_bottom2">
+									<ul>
+										<li>
+											<a href><img src="../images/k10.gif"/></a>
+											<p>蜂蜜</p>
+										</li>
+										<li>
+											<a href><img src="../images/k11.gif"/></a>
+											<p>火龙果</p>
+										</li>
+										<li>
+											<a href><img src="../images/k12.gif"/></a>
+											<p>咖啡</p>
+										</li>
+										<li>
+											<a href><img src="../images/k13.gif"/></a>
+											<p>红枣</p>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+<!-------------------------------三----------------------------------------------->
+				<div class="main_left2">
+					<div class="main_left2_left">
+						<div class="taobaojiaoyu">
+							<div class="taobaojiaoyu1 taobaohuichi1">
+								<a href="#"><img src="../images/l1.gif"/></a>
+							</div>
+							<div class="taobaojiaoyu2 qiangdiao2">
+								<h1>热门TOP</h1>
+								<ul>
+									<li><a href="#">&nbsp;&nbsp;夏新品&nbsp;&nbsp;</a></li>
+									<li><a href="#">&nbsp;&nbsp;&nbsp;T恤&nbsp;&nbsp;&nbsp;</a></li>
+									<li><a href="#">&nbsp;&nbsp;防晒衫&nbsp;&nbsp;</a></li>
+									<li><a href="#">&nbsp;&nbsp;&nbsp;套装&nbsp;&nbsp;&nbsp;</a></li>
+									<li><a href="#">&nbsp;&nbsp;连衣裙&nbsp;&nbsp;</a></li>
+									<li><a href="#">&nbsp;&nbsp;衬衫&nbsp;&nbsp;</a></li>
+									<li><a href="#">&nbsp;&nbsp;牛仔裤&nbsp;&nbsp;</a></li>
+									<li><a href="#">&nbsp;&nbsp;针织衫&nbsp;&nbsp;</a></li>
+									<li><a href="#">&nbsp;&nbsp;风衣&nbsp;&nbsp;</a></li>
+								</ul>
+							</div>
+						</div>
+						<div class="zigekaoshi">
+							<div class="zigekaoshi_top">
+								<div class="zigekaoshi_top1"><a href="#"><img src="../images/l2.gif"/></a></div>
+								<div class="zigekaoshi_top2">
+									<div class="malayixia_top1"><a href="#"><img src="../images/l3.gif"/></a></div>
+									<div class="malayixia_top2"><a href="#"><img src="../images/l4.gif"/></a></div>
+								</div>
+								<div class="zigekaoshi_top3">
+									<a href="#"><img src="../images/l5.gif"/></a>
+								</div>
+							</div>
+							<div class="zigekaoshi_bottom">
+								<div class="zigekaoshi_bottom1 qiangdiao1">
+									<a href="#">
+										<img src="../images/l6.jpg"/>
+										<span><b>活动</b><s>轻奢度假</s></span>
+									</a>
+								</div>
+								<div class="zigekaoshi_bottom2">
+									<div class="zigekaoshi_bottom2_1">
+										<a href="#"><img src="../images/l7.gif"/></a>
+									</div>
+									<div class="zigekaoshi_bottom2_2">
+										<a href="#"><img src="../images/l8.gif"/></a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="main_left2_right">
+						<div class="taobaojiaoyu">
+							<div class="taobaojiaoyu1">
+								<a href="#"><img src="../images/m1.gif"/></a>
+							</div>
+							<div class="taobaojiaoyu2 jiyoujia2">
+								<h1>热门TOP</h1>
+								<ul>
+									<li><a href="#">&nbsp;&nbsp;浴室柜&nbsp;&nbsp;</a></li>
+									<li><a href="#">&nbsp;&nbsp;瓷砖&nbsp;&nbsp;</a></li>
+									<li><a href="#">&nbsp;&nbsp;美灯&nbsp;&nbsp;</a></li>
+									<li><a href="#">&nbsp;&nbsp;墙纸&nbsp;&nbsp;</a></li>
+									<li><a href="#">&nbsp;&nbsp;全套设计&nbsp;&nbsp;</a></li>
+									<li><a href="#">&nbsp;&nbsp;吊灯&nbsp;&nbsp;</a></li>
+									<li><a href="#">&nbsp;&nbsp;装修&nbsp;&nbsp;</a></li>
+									<li><a href="#">&nbsp;&nbsp;全棉四件套&nbsp;&nbsp;</a></li>
+									<li><a href="#">&nbsp;&nbsp;床&nbsp;&nbsp;</a></li>
+									<li><a href="#">&nbsp;&nbsp;沙发&nbsp;&nbsp;</a></li>
+									<li><a href="#">&nbsp;&nbsp;收纳&nbsp;&nbsp;</a></li>
+									<li><a href="#">&nbsp;&nbsp;桌椅&nbsp;&nbsp;</a></li>
+									<li><a href="#">&nbsp;&nbsp;地板&nbsp;&nbsp;</a></li>
+								</ul>
+							</div>
+						</div>
+						<div class="zigekaoshi">
+							<div class="zigekaoshi_top">
+								<div class="zigekaoshi_top1"><a href="#"><img src="../images/m2.gif"/></a></div>
+								<div class="zigekaoshi_top2"><a href="#"><img src="../images/m3.gif"/></a></div>
+								<div class="zigekaoshi_top3">
+									<div class="zigekaoshi_top3_1"><a href="#"><img src="../images/m4.gif"/></a></div>
+									<div class="zigekaoshi_top3_2"><a href="#"><img src="../images/m5.gif"/></a></div>
+								</div>
+							</div>
+							<div class="zigekaoshi_bottom">
+								<div class="zigekaoshi_bottom1 jiyoujia1">
+									<a href="#">
+										<img src="../images/l9.jpg"/>
+										<span><b>热门</b><s>美式浪漫婚房</s></span>
+									</a>
+								</div>
+								<div class="zigekaoshi_bottom2">
+									<div class="zigekaoshi_bottom2_1">
+										<a href="#"><img src="../images/m6.gif"/></a>
+									</div>
+									<div class="zigekaoshi_bottom2_2">
+										<a href="#"><img src="../images/m7.gif"/></a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+<!-------------------------------四----------------------------------------------->
+				<div class="main_left4">
+					<a href="#"><img src="../images/m8.jpg"/></a>
+				</div>
+<!-------------------------------五----------------------------------------------->
+				<div class="main_left1">
+					<img src="../images/m9.gif">
+					<a href="#">更多></a>
+				</div>
+<!-------------------------------六----------------------------------------------->
+				<div class="main_left6">
+					<div class="main_left6_1 left6">
+						<div class="left6_top">
+							<span><img src="../images/n1.jpg"/></span>
+							<b><img src="../images/n2.gif"/></b>
+						</div>
+						<div class="left6_bottom">
+							<div class="left6_bottoma">
+								<a href="#">
+									<img src="../images/n3.jpg"/>
+									<p>仙女就是性冷淡</p>
+								</a>
+							</div>
+							<div class="left6_bottomb">
+								<div class="left6_bottomb_1">
+									<a href="#">
+										<img src="../images/n4.jpg"/>
+										<p>咔哇伊涅</p>
+									</a>
+								</div>
+								<div class="left6_bottomb_1">
+									<a href="#">
+										<img src="../images/n5.jpg"/>
+										<p>条纹控</p>
+									</a>
+								</div>
+							</div>
+						</div>
+					</div><!-------------------------------------------------时尚1-1------------------------------------>
+					<div class="main_left6_2 left6">
+						<div class="left6_top">
+							<span><img src="../images/n6.jpg"/></span>
+							<b><img src="../images/n2.gif"/></b>
+						</div>
+						<div class="left6_bottom">
+							<div class="left6_bottomb">
+								<div class="left6_bottomb_1">
+									<a href="#">
+										<img src="../images/n7.jpg"/>
+										<p>舒服好鞋</p>
+									</a>
+								</div>
+								<div class="left6_bottomb_1 left6_bottomb_2">
+									<a href="#">
+										<img src="../images/n8.jpg"/>
+										<p>手表的艺术</p>
+									</a>
+								</div>
+							</div>
+							<div class="left6_bottomb">
+								<div class="left6_bottomb_1 left6_bottomb_2">
+									<a href="#">
+										<img src="../images/n9.jpg"/>
+										<p>juicy大牌</p>
+									</a>
+								</div>
+								<div class="left6_bottomb_1">
+									<a href="#">
+										<img src="../images/n10.jpg"/>
+										<p>唇彩套装</p>
+									</a>
+								</div>
+							</div>
+						</div>
+					</div><!-------------------------------------------------时尚1-2------------------------------------>
+					<div class="main_left6_3 left6">
+						<div class="left6_top">
+							<span><img src="../images/n11.jpg"/></span>
+							<b><img src="../images/n2.gif"/></b>
+						</div>
+						<div class="left6_bottom">
+							<div class="left6_bottoma">
+								<a href="#">
+									<img src="../images/n12.jpg"/>
+									<p>唇彩精选</p>
+								</a>
+							</div>
+							<div class="left6_bottomb">
+								<div class="left6_bottomb_1 left6_bottomb_2">
+									<a href="#">
+										<img src="../images/n13.jpg"/>
+										<p>最潮撩汉装</p>
+									</a>
+								</div>
+								<div class="left6_bottomb_1">
+									<a href="#">
+										<img src="../images/n14.jpg"/>
+										<p>美发良品</p>
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="main_left6_4 left6">
+						<div class="left6_top">
+							<span><img src="../images/n15.jpg"/></span>
+							<b><img src="../images/n2.gif"/></b>
+						</div>
+						<div class="left6_bottom">
+							<div class="left6_bottomb">
+								<div class="left6_bottomb_1 left6_bottomb_2">
+									<a href="#">
+										<img src="../images/n16.jpg"/>
+										<p>素人妆后变身</p>
+									</a>
+								</div>
+								<div class="left6_bottomb_1">
+									<a href="#">
+										<img src="../images/n17.jpg"/>
+										<p>撩汉一身搭</p>
+									</a>
+								</div>
+							</div>
+							<div class="left6_bottomb">
+								<div class="left6_bottomb_1 left6_bottomb_2">
+									<a href="#">
+										<img src="../images/n18.jpg"/>
+										<p>小户型宜家风</p>
+									</a>
+								</div>
+								<div class="left6_bottomb_1">
+									<a href="#">
+										<img src="../images/n19.jpg"/>
+										<p>夏日白搭凉鞋</p>
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+	<!-------------------------------七----------------------------------------------->
+				<div class="main_left1">
+					<img src="../images/o.gif">
+					<a href="#">更多></a>
+				</div>
+				<div class="main_left7 main_left6">
+					<div class="main_left7_1 left6">
+						<div class="left6_top">
+							<span><img src="../images/o1.jpg"/></span>
+							<b><img src="../images/n2.gif"/></b>
+						</div>
+						<div class="left7_bottom left6_bottom">
+							<div class="left7_a">
+								<div class="left7_a1">
+									<a href="#">
+										<img src="../images/o2.jpg"/>
+										<h1>草莓松露</h1>
+										<p>高颜值美食</p>
+									</a>
+								</div>
+								<div class="left7_a2 left7_a1">
+									<a href="#">
+										<img src="../images/o3.jpg"/>
+										<h1>新鲜芒果</h1>
+										<p>正宗好味道</p>
+									</a>
+								</div>
+							</div>
+							<div class="left7_b">
+								<ul>
+									<li><a href="#">应季鲜果</a></li>
+									<li><a href="#">精致糕点</a></li>
+									<li><a href="#">全球美食</a></li>
+									<li><a href="#">烘培原料</a></li>
+									<li><a href="#">麻辣一下</a></li>
+									<li><a href="#">生猛海鲜</a></li>
+								</ul>
+							</div>
+						</div>
+					</div><!---------------------------------------------------时尚2-1---------------------->
+					<div class="main_left6_2 left6">
+						<div class="left6_top">
+							<span><img src="../images/o4.jpg"/></span>
+							<b><img src="../images/n2.gif"/></b>
+						</div>
+						<div class="left6_bottom">
+							<div class="left6_bottomb">
+								<div class="left6_bottomb_1 left6_bottomb_2">
+									<a href="#">
+										<img src="../images/o5.jpg"/>
+										<p>日式小清新</p>
+									</a>
+								</div>
+								<div class="left6_bottomb_1">
+									<a href="#">
+										<img src="../images/o6.jpg"/>
+										<p>清新必备</p>
+									</a>
+								</div>
+							</div>
+							<div class="left6_bottomb">
+								<div class="left6_bottomb_1 left6_bottomb_2">
+									<a href="#">
+										<img src="../images/o7.jpg"/>
+										<p>“伞”思而行</p>
+									</a>
+								</div>
+								<div class="left6_bottomb_1">
+									<a href="#">
+										<img src="../images/o8.jpg"/>
+										<p>个性工业风</p>
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="main_left7 main_left6">
+					<div class="main_left7_1 left6">
+						<div class="left6_top">
+							<span><img src="../images/o9.jpg"/></span>
+						</div>
+						<div class="left7_bottom left6_bottom">
+							<div class="left7_a">
+								<div class="left7_a1">
+									<a href="#">
+										<img src="../images/o10.jpg"/>
+										<h1>潮牌 手表</h1>
+										<p>rumbatime</p>
+									</a>
+								</div>
+								<div class="left7_a2 left7_a1">
+									<a href="#">
+										<img src="../images/o11.jpg"/>
+										<h1>热门女鞋</h1>
+										<p>开口笑</p>
+									</a>
+								</div>
+							</div>
+							<div class="left7_b">
+								<ul>
+									<li><a href="#">春天的包包</a></li>
+									<li><a href="#">Chloe墨镜</a></li>
+									<li><a href="#">小白鞋</a></li>
+									<li><a href="#">水润你</a></li>
+									<li><a href="#">亚历山大.王</a></li>
+									<li><a href="#">Gucci酒神</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+					<div class="main_left6_2 left6">
+						<div class="left6_top">
+							<span><img src="../images/n6.jpg"/></span>
+							<b><img src="../images/n2.gif"/></b>
+						</div>
+						<div class="left6_bottom">
+							<div class="left6_bottomb">
+								<div class="left6_bottomb_1 left6_bottomb_2">
+									<a href="#">
+										<img src="../images/n7.jpg"/>
+										<p>男士休闲裤</p>
+									</a>
+								</div>
+								<div class="left6_bottomb_1">
+									<a href="#">
+										<img src="../images/n8.jpg"/>
+										<p>春季运动套装</p>
+									</a>
+								</div>
+							</div>
+							<div class="left6_bottomb">
+								<div class="left6_bottomb_1 left6_bottomb_2">
+									<a href="#">
+										<img src="../images/n9.jpg"/>
+										<p>美食更好味</p>
+									</a>
+								</div>
+								<div class="left6_bottomb_1">
+									<a href="#">
+										<img src="../images/n10.jpg"/>
+										<p>简约客厅地毯</p>
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div></div>
+<!--------------------------------八-------------------------------------------->
+				<div class="main_left8 main_left6">
+					<div class="main_left6_2 left6">
+						<div class="left6_top">
+							<span><img src="../images/p1.jpg"/></span>
+						</div>
+						<div class="left6_bottom">
+							<div class="left6_bottomb">
+								<div class="left6_bottomb_1">
+									<a href="#">
+										<img src="../images/p2.jpg"/>
+										<p>舒服好鞋</p>
+									</a>
+								</div>
+								<div class="left6_bottomb_1 left6_bottomb_2">
+									<a href="#">
+										<img src="../images/p3.jpg"/>
+										<p>手表的艺术</p>
+									</a>
+								</div>
+							</div>
+							<div class="left6_bottomb">
+								<div class="left6_bottomb_1">
+									<a href="#">
+										<img src="../images/p4.jpg"/>
+										<p>juicy大牌</p>
+									</a>
+								</div>
+								<div class="left6_bottomb_1 left6_bottomb_2">
+									<a href="#">
+										<img src="../images/p5.jpg"/>
+										<p>唇彩套装</p>
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="main_left7_1 left6">
+						<div class="left6_top">
+							<span><img src="../images/p6.jpg"/></span>
+							<b><img src="../images/n2.gif"/></b>
+						</div>
+						<div class="left7_bottom left6_bottom">
+							<div class="left7_a">
+								<div class="left7_a1">
+									<a href="#">
+										<img src="../images/p7.jpg"/>
+										<h1>草莓松露</h1>
+										<p>高颜值美食</p>
+									</a>
+								</div>
+								<div class="left7_a2 left7_a1">
+									<a href="#">
+										<img src="../images/p11.jpg"/>
+										<h1>新鲜芒果</h1>
+										<p>正宗好味道</p>
+									</a>
+								</div>
+							</div>
+							<div class="left7_b">
+								<ul>
+									<li><a href="#">应季鲜果</a></li>
+									<li><a href="#">精致糕点</a></li>
+									<li><a href="#">全球美食</a></li>
+									<li><a href="#">烘培原料</a></li>
+									<li><a href="#">麻辣一下</a></li>
+									<li><a href="#">生猛海鲜</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+					<div class="main_left7_1 left6">
+						<div class="left6_top">
+							<span><img src="../images/p8.jpg"/></span>
+							<b><img src="../images/n2.gif"/></b>
+						</div>
+						<div class="left7_bottom left6_bottom">
+							<div class="left7_a">
+								<div class="left7_a1">
+									<a href="#">
+										<img src="../images/p9.jpg"/>
+										<h1>草莓松露</h1>
+										<p>高颜值美食</p>
+									</a>
+								</div>
+								<div class="left7_a2 left7_a1">
+									<a href="#">
+										<img src="../images/p10.jpg"/>
+										<h1>新鲜芒果</h1>
+										<p>正宗好味道</p>
+									</a>
+								</div>
+							</div>
+							<div class="left7_b">
+								<ul>
+									<li><a href="#">应季鲜果</a></li>
+									<li><a href="#">精致糕点</a></li>
+									<li><a href="#">全球美食</a></li>
+									<li><a href="#">烘培原料</a></li>
+									<li><a href="#">麻辣一下</a></li>
+									<li><a href="#">生猛海鲜</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+					<div class="main_left6_2 left6">
+						<div class="left6_top">
+							<span><img src="../images/p12.jpg"/></span>
+						</div>
+						<div class="left6_bottom">
+							<div class="left6_bottomb">
+								<div class="left6_bottomb_1">
+									<a href="#">
+										<img src="../images/p13.jpg"/>
+										<p>舒服好鞋</p>
+									</a>
+								</div>
+								<div class="left6_bottomb_1 left6_bottomb_2">
+									<a href="#">
+										<img src="../images/p14.jpg"/>
+										<p>手表的艺术</p>
+									</a>
+								</div>
+							</div>
+							<div class="left6_bottomb">
+								<div class="left6_bottomb_1 left6_bottomb_2">
+									<a href="#">
+										<img src="../images/p15.jpg"/>
+										<p>juicy大牌</p>
+									</a>
+								</div>
+								<div class="left6_bottomb_1">
+									<a href="#">
+										<img src="../images/p16.jpg"/>
+										<p>唇彩套装</p>
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+	<!----------------------------------------九---------------------------------------------------------->
+				<div class="main_left1">
+					<img src="../images/o.gif">
+					<a href="#">更多></a>
+				</div>
+				<div class="main_left7 main_left6">
+					<div class="main_left7_1 left6">
+						<div class="left6_top">
+							<span><img src="../images/o1.jpg"/></span>
+							<b><img src="../images/n2.gif"/></b>
+						</div>
+						<div class="left7_bottom left6_bottom">
+							<div class="left7_a">
+								<div class="left7_a1">
+									<a href="#">
+										<img src="../images/o2.jpg"/>
+										<h1>草莓松露</h1>
+										<p>高颜值美食</p>
+									</a>
+								</div>
+								<div class="left7_a2 left7_a1">
+									<a href="#">
+										<img src="../images/o3.jpg"/>
+										<h1>新鲜芒果</h1>
+										<p>正宗好味道</p>
+									</a>
+								</div>
+							</div>
+							<div class="left7_b">
+								<ul>
+									<li><a href="#">应季鲜果</a></li>
+									<li><a href="#">精致糕点</a></li>
+									<li><a href="#">全球美食</a></li>
+									<li><a href="#">烘培原料</a></li>
+									<li><a href="#">麻辣一下</a></li>
+									<li><a href="#">生猛海鲜</a></li>
+								</ul>
+							</div>
+						</div>
+					</div><!---------------------------------------------------时尚2-1---------------------->
+					<div class="main_left6_2 left6">
+						<div class="left6_top">
+							<span><img src="../images/o4.jpg"/></span>
+							<b><img src="../images/n2.gif"/></b>
+						</div>
+						<div class="left6_bottom">
+							<div class="left6_bottomb">
+								<div class="left6_bottomb_1 left6_bottomb_2">
+									<a href="#">
+										<img src="../images/o5.jpg"/>
+										<p>日式小清新</p>
+									</a>
+								</div>
+								<div class="left6_bottomb_1">
+									<a href="#">
+										<img src="../images/o6.jpg"/>
+										<p>清新必备</p>
+									</a>
+								</div>
+							</div>
+							<div class="left6_bottomb">
+								<div class="left6_bottomb_1 left6_bottomb_2">
+									<a href="#">
+										<img src="../images/o7.jpg"/>
+										<p>“伞”思而行</p>
+									</a>
+								</div>
+								<div class="left6_bottomb_1">
+									<a href="#">
+										<img src="../images/o8.jpg"/>
+										<p>个性工业风</p>
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="main_left7 main_left6">
+					<div class="main_left7_1 left6">
+						<div class="left6_top">
+							<span><img src="../images/o9.jpg"/></span>
+						</div>
+						<div class="left7_bottom left6_bottom">
+							<div class="left7_a">
+								<div class="left7_a1">
+									<a href="#">
+										<img src="../images/o10.jpg"/>
+										<h1>潮牌 手表</h1>
+										<p>rumbatime</p>
+									</a>
+								</div>
+								<div class="left7_a2 left7_a1">
+									<a href="#">
+										<img src="../images/o11.jpg"/>
+										<h1>热门女鞋</h1>
+										<p>开口笑</p>
+									</a>
+								</div>
+							</div>
+							<div class="left7_b">
+								<ul>
+									<li><a href="#">春天的包包</a></li>
+									<li><a href="#">Chloe墨镜</a></li>
+									<li><a href="#">小白鞋</a></li>
+									<li><a href="#">水润你</a></li>
+									<li><a href="#">亚历山大.王</a></li>
+									<li><a href="#">Gucci酒神</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+					<div class="main_left6_2 left6">
+						<div class="left6_top">
+							<span><img src="../images/n6.jpg"/></span>
+							<b><img src="../images/n2.gif"/></b>
+						</div>
+						<div class="left6_bottom">
+							<div class="left6_bottomb">
+								<div class="left6_bottomb_1 left6_bottomb_2">
+									<a href="#">
+										<img src="../images/n7.jpg"/>
+										<p>男士休闲裤</p>
+									</a>
+								</div>
+								<div class="left6_bottomb_1">
+									<a href="#">
+										<img src="../images/n8.jpg"/>
+										<p>春季运动套装</p>
+									</a>
+								</div>
+							</div>
+							<div class="left6_bottomb">
+								<div class="left6_bottomb_1 left6_bottomb_2">
+									<a href="#">
+										<img src="../images/n9.jpg"/>
+										<p>美食更好味</p>
+									</a>
+								</div>
+								<div class="left6_bottomb_1">
+									<a href="#">
+										<img src="../images/n10.jpg"/>
+										<p>简约客厅地毯</p>
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div></div>
+<!--------------------------------十-------------------------------------------->
+				<div class="main_left8 main_left6">
+					<div class="main_left6_2 left6">
+						<div class="left6_top">
+							<span><img src="../images/p1.jpg"/></span>
+						</div>
+						<div class="left6_bottom">
+							<div class="left6_bottomb">
+								<div class="left6_bottomb_1">
+									<a href="#">
+										<img src="../images/p2.jpg"/>
+										<p>舒服好鞋</p>
+									</a>
+								</div>
+								<div class="left6_bottomb_1 left6_bottomb_2">
+									<a href="#">
+										<img src="../images/p3.jpg"/>
+										<p>手表的艺术</p>
+									</a>
+								</div>
+							</div>
+							<div class="left6_bottomb">
+								<div class="left6_bottomb_1">
+									<a href="#">
+										<img src="../images/p4.jpg"/>
+										<p>juicy大牌</p>
+									</a>
+								</div>
+								<div class="left6_bottomb_1 left6_bottomb_2">
+									<a href="#">
+										<img src="../images/p5.jpg"/>
+										<p>唇彩套装</p>
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="main_left7_1 left6">
+						<div class="left6_top">
+							<span><img src="../images/p6.jpg"/></span>
+							<b><img src="../images/n2.gif"/></b>
+						</div>
+						<div class="left7_bottom left6_bottom">
+							<div class="left7_a">
+								<div class="left7_a1">
+									<a href="#">
+										<img src="../images/p7.jpg"/>
+										<h1>草莓松露</h1>
+										<p>高颜值美食</p>
+									</a>
+								</div>
+								<div class="left7_a2 left7_a1">
+									<a href="#">
+										<img src="../images/p11.jpg"/>
+										<h1>新鲜芒果</h1>
+										<p>正宗好味道</p>
+									</a>
+								</div>
+							</div>
+							<div class="left7_b">
+								<ul>
+									<li><a href="#">应季鲜果</a></li>
+									<li><a href="#">精致糕点</a></li>
+									<li><a href="#">全球美食</a></li>
+									<li><a href="#">烘培原料</a></li>
+									<li><a href="#">麻辣一下</a></li>
+									<li><a href="#">生猛海鲜</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+					<div class="main_left7_1 left6">
+						<div class="left6_top">
+							<span><img src="../images/p8.jpg"/></span>
+							<b><img src="../images/n2.gif"/></b>
+						</div>
+						<div class="left7_bottom left6_bottom">
+							<div class="left7_a">
+								<div class="left7_a1">
+									<a href="#">
+										<img src="../images/p9.jpg"/>
+										<h1>草莓松露</h1>
+										<p>高颜值美食</p>
+									</a>
+								</div>
+								<div class="left7_a2 left7_a1">
+									<a href="#">
+										<img src="../images/p10.jpg"/>
+										<h1>新鲜芒果</h1>
+										<p>正宗好味道</p>
+									</a>
+								</div>
+							</div>
+							<div class="left7_b">
+								<ul>
+									<li><a href="#">应季鲜果</a></li>
+									<li><a href="#">精致糕点</a></li>
+									<li><a href="#">全球美食</a></li>
+									<li><a href="#">烘培原料</a></li>
+									<li><a href="#">麻辣一下</a></li>
+									<li><a href="#">生猛海鲜</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+					<div class="main_left6_2 left6">
+						<div class="left6_top">
+							<span><img src="../images/p12.jpg"/></span>
+						</div>
+						<div class="left6_bottom">
+							<div class="left6_bottomb">
+								<div class="left6_bottomb_1">
+									<a href="#">
+										<img src="../images/p13.jpg"/>
+										<p>舒服好鞋</p>
+									</a>
+								</div>
+								<div class="left6_bottomb_1 left6_bottomb_2">
+									<a href="#">
+										<img src="../images/p14.jpg"/>
+										<p>手表的艺术</p>
+									</a>
+								</div>
+							</div>
+							<div class="left6_bottomb">
+								<div class="left6_bottomb_1 left6_bottomb_2">
+									<a href="#">
+										<img src="../images/p15.jpg"/>
+										<p>juicy大牌</p>
+									</a>
+								</div>
+								<div class="left6_bottomb_1">
+									<a href="#">
+										<img src="../images/p16.jpg"/>
+										<p>唇彩套装</p>
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+	<!--------------------------------------------------------------十一-------------------------------------->
+				<div class="main_left1">
+					<img src="../images/p17.gif">
+					<a href="#">更多></a>
+				</div>
+				<div class="shihuiqiye">
+					<div class="shihuiqiye_left">
+						<div class="shihuiqiye_left1">
+							<div class="shihuiqiye_left1_a">
+								<a href="#"><img src="../images/q1.jpg"/></a><img src="../images/n2.gif"/>
+								<span>抢购进行中</span>
+							</div>
+							<div class="shihuiqiye_left1_b">
+								<div class="yugan1">
+									<a href="#">5.4米碳素台钓杆超轻硬手竿</a>
+									<p><b>￥76</b></p>
+									<s>已抢购181件</s>
+								</div>
+								<div class="yugan2"><img src="../images/q2.jpg"/></div>
+							</div>
+						</div>
+						<div class="shihuiqiye_left2">
+							<div class="shihuiqiye_left1_a">
+								<a href="#"><img src="../images/q3.jpg"/></a><img src="../images/n2.gif"/>
+							</div>
+							<div class="shihuiqiye_left1_b">
+								<div class="yugan1 xianxia1">
+									<s>0.01元疯抢</s>
+									<p>已抢购181件</p>
+									<a href="#">先用后买</a>
+								</div>
+								<div class="yugan2"><img src="../images/q4.jpg"/>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="shihuiqiye_right">
+						<div class="shihuiqiye_right_top">
+							<div class="shihuiqiye_right_top1">
+								<div class="right_top1_left">
+									<a href="#"><img src="../images/q5.jpg"/></a><img src="../images/n2.gif"/>
+								</div>
+								<div class="right_top1_right">
+									<div class="right_top1_right1">
+										<b>优质好货</b>
+										<p>特价专区</p>
+										<a href="#">十元包邮</a>
+									</div>
+									<div class="right_top1_right2">
+										<a href="#"><img src="../images/q6.jpg"/></a>
+									</div>
+								</div>
+							</div>
+							<div class="shihuiqiye_right_top1">
+								<div class="right_top1_left">
+									<a href="#"><img src="../images/q7.jpg"/></a><img src="../images/n2.gif"/>
+								</div>
+								<div class="right_top1_right">
+									<div class="right_top1_right1">
+										<b>气质美女</b>
+										<p>打折后再抵钱</p>
+										<a href="#">立即抢兑</a>
+									</div>
+									<div class="right_top1_right2">
+										<a href="#"><img src="../images/q8.jpg"/></a>
+									</div>
+								</div>
+							</div>
+							<div class="shihuiqiye_right_top1">
+								<div class="right_top1_left">
+									<a href="#"><img src="../images/q9.jpg"/></a><img src="../images/n2.gif"/>
+								</div>
+								<div class="right_top1_right">
+									<div class="right_top1_right1">
+										<b>0点上新</b>
+										<p>特价包邮</p>
+										<a href="#">限量必抢</a>
+									</div>
+									<div class="right_top1_right2">
+										<a href="#"><img src="../images/q10.jpg"/></a>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="shihuiqiye_right_bottom">
+						<div class="shihuiqiye_right_top1">
+								<div class="right_top1_left">
+									<a href="#"><img src="../images/q11.jpg"/></a><img src="../images/n2.gif"/>
+								</div>
+								<div class="right_top1_right">
+									<div class="right_top1_right1">
+										<b>奢品低价购</b>
+										<p>网红最爱</p>
+										<a href="#">剁手</a>
+									</div>
+									<div class="right_top1_right2">
+										<a href="#"><img src="../images/q12.jpg"/></a>
+									</div>
+								</div>
+							</div>
+							<div class="shihuiqiye_right_top1">
+								<div class="right_top1_left">
+									<a href="#"><img src="../images/q13.jpg"/></a><img src="../images/n2.gif"/>
+								</div>
+								<div class="right_top1_right">
+									<div class="right_top1_right1">
+										<b>品牌尾货</b>
+										<p>断色断码抢</p>
+										<a href="#">356天低价</a>
+									</div>
+									<div class="right_top1_right2">
+										<a href="#"><img src="../images/q14.jpg"/></a>
+									</div>
+								</div>
+							</div>
+							<div class="shihuiqiye_right_top1">
+								<div class="right_top1_left">
+									<a href="#"><img src="../images/q15.jpg"/></a><img src="../images/n2.gif"/>
+								</div>
+								<div class="right_top1_right">
+									<div class="right_top1_right1 right_top1_right5">
+										<b>时尚穿搭</b>
+										<p>全场包邮</p>
+										<a href="#">品牌特卖</a>
+									</div>
+									<div class="right_top1_right2">
+										<a href="#"><img src="../images/q16.jpg"/></a>
+									</div>
+								</div>
+							</div></div>
+					</div>
+				</div>
+				<div class="chaozhimengwu">
+					<a href="#"><img src="../images/q.png"/></a>
+				</div>
+			</div><!--------------------------------我常逛的左面-------------------------------------------->
+<!--------------------------------我常逛的右面-------------------------------------------->
+			<div class="main_right">
+				<div class="taobaotoutiao">
+					<div class="taobaotoutiao_top">
+						<span>淘宝头条</span>
+						<a href="#">更多></a>
+					</div>
+					<div class="taobaotoutiao_bottom">
+						<a href="#">
+							<img src="../images/r1.jpg"/>
+							<p>
+								<span>你和女神的差距也许只是一双&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+								<s>炎炎夏日，如何才能让我们的小脚丫舒适呢？小白鞋美则美矣，但是不够</s>
+							</p>
+						</a>
+					</div>
+				</div>
+				<div class="youhaohuo">
+					<span><img src="../images/r2.gif"/></span>
+					<ul>
+						<li>
+							<a href="#">
+								<img src="../images/r3.jpg"/>
+								<h1>紫砂茶饼罐</h1>
+								<p>此款茶叶罐，采用优质的段泥和紫泥精心制作，表层为段</p>
+								<p><b>120人说好</b></p>
+							</a>
+						</li>
+						<li>
+							<a href="#">
+								<img src="../images/r4.jpg"/>
+								<h1>Covert Hoody 抓绒衣</h1>
+								<p>此次服装腋下采用立体裁剪工艺，给手臂活动提供最大自由</p>
+								<p><b>63人说好</b></p>
+							</a>
+						</li>
+						<li>
+							<a href="#">
+								<img src="../images/r5.jpg"/>
+								<h1>正宗海南黄花梨手串</h1>
+								<p>正宗海南黄花梨木男士鬼脸手串，精选极品老料，料子密度</p>
+								<p><b>1193人说好</b></p>
+							</a>
+						</li>
+						<li>
+							<a href="#">
+								<img src="../images/r6.jpg"/>
+								<h1>黑色印花短袖T恤</h1>
+								<p>袖口金属亮片的拼接，充满英伦摇滚范，潮酷有型，个性满</p>
+								<p><b>120人说好</b></p>
+							</a>
+						</li>
+						<li>
+							<a href="#">
+								<img src="../images/r3.jpg"/>
+								<h1>紫砂茶饼罐</h1>
+								<p>此款茶叶罐，采用优质的段泥和紫泥精心制作，表层为段</p>
+								<p><b>120人说好</b></p>
+							</a>
+						</li>
+						<li>
+							<a href="#">
+								<img src="../images/r4.jpg"/>
+								<h1>Covert Hoody 抓绒衣</h1>
+								<p>此次服装腋下采用立体裁剪工艺，给手臂活动提供最大自由</p>
+								<p><b>63人说好</b></p>
+							</a>
+						</li>
+						<li>
+							<a href="#">
+								<img src="../images/r5.jpg"/>
+								<h1>正宗海南黄花梨手串</h1>
+								<p>正宗海南黄花梨木男士鬼脸手串，精选极品老料，料子密度</p>
+								<p><b>1193人说好</b></p>
+							</a>
+						</li>
+						<li>
+							<a href="#">
+								<img src="../images/r6.jpg"/>
+								<h1>黑色印花短袖T恤</h1>
+								<p>袖口金属亮片的拼接，充满英伦摇滚范，潮酷有型，个性满</p>
+								<p><b>120人说好</b></p>
+							</a>
+						</li>
+						<li>
+							<a href="#">
+								<img src="../images/r3.jpg"/>
+								<h1>紫砂茶饼罐</h1>
+								<p>此款茶叶罐，采用优质的段泥和紫泥精心制作，表层为段</p>
+								<p><b>120人说好</b></p>
+							</a>
+						</li>
+						<li>
+							<a href="#">
+								<img src="../images/r4.jpg"/>
+								<h1>Covert Hoody 抓绒衣</h1>
+								<p>此次服装腋下采用立体裁剪工艺，给手臂活动提供最大自由</p>
+								<p><b>63人说好</b></p>
+							</a>
+						</li>
+					</ul>
+					<div class="huanyizu">
+						<a href="#">
+							<img src="../images/r7.gif"/>
+							<span>换一组看看</span>
+						</a>
+					</div>
+				</div>
+				<div class="meirihaodian">
+					<span><img src="../images/r8.gif"/></span>
+					<ul>
+						<li>
+							<a href="#">今日推荐—1天3波</a>
+							<b>一个月被收藏了242次，一定有好东西</b>
+							<div class="meirihaodian_tupian">
+								<div class="meirihaodian_tupian_left">
+									<div class="meirihaodian_tupian_left1">
+										<a href="#"><img src="../images/r9.jpg"/></a>
+									</div>
+									<div class="meirihaodian_tupian_left2">
+										<a href="#"><img src="../images/r10.jpg"/></a>
+									</div>
+								</div>
+								<div class="meirihaodian_tupian_right">
+									<a href="#"><img src="../images/r11.jpg"/></a>
+								</div>
+							</div>
+						</li>
+						<li>
+							<a href="#">今日推荐—1天3波</a>
+							<b>一个月被收藏了242次，一定有好东西</b>
+							<div class="meirihaodian_tupian">
+								<div class="meirihaodian_tupian_left">
+									<div class="meirihaodian_tupian_left1">
+										<a href="#"><img src="../images/r9.jpg"/></a>
+									</div>
+									<div class="meirihaodian_tupian_left2">
+										<a href="#"><img src="../images/r10.jpg"/></a>
+									</div>
+								</div>
+								<div class="meirihaodian_tupian_right">
+									<a href="#"><img src="../images/r11.jpg"/></a>
+								</div>
+							</div>
+						</li>
+						<li>
+							<a href="#">今日推荐—1天3波</a>
+							<b>一个月被收藏了242次，一定有好东西</b>
+							<div class="meirihaodian_tupian">
+								<div class="meirihaodian_tupian_left">
+									<div class="meirihaodian_tupian_left1">
+										<a href="#"><img src="../images/r9.jpg"/></a>
+									</div>
+									<div class="meirihaodian_tupian_left2">
+										<a href="#"><img src="../images/r10.jpg"/></a>
+									</div>
+								</div>
+								<div class="meirihaodian_tupian_right">
+									<a href="#"><img src="../images/r11.jpg"/></a>
+								</div>
+							</div>
+						</li>
+						<li>
+							<a href="#">今日推荐—1天3波</a>
+							<b>一个月被收藏了242次，一定有好东西</b>
+							<div class="meirihaodian_tupian">
+								<div class="meirihaodian_tupian_left">
+									<div class="meirihaodian_tupian_left1">
+										<a href="#"><img src="../images/r9.jpg"/></a>
+									</div>
+									<div class="meirihaodian_tupian_left2">
+										<a href="#"><img src="../images/r10.jpg"/></a>
+									</div>
+								</div>
+								<div class="meirihaodian_tupian_right">
+									<a href="#"><img src="../images/r11.jpg"/></a>
+								</div>
+							</div>
+						</li>
+					</ul>
+					<div class="chakan">
+						<a href="#">
+							<img src="../images/r12.gif"/>
+							<span>查看更多好店</span>
+						</a>
+					</div>
+				</div>
+				<div class="jinriermai">
+					<span>今日热卖</span>
+					<a href="#"><img src="../images/r13.jpg"/></a>
+				</div>
+			</div><!--------------------我常逛的右面-------不动---------------------->
+	</div>
+<!--------------------------------------------------完事--------------------------------------------------------------------->
+	<div id="remaidanpin">
+		<div class="remaidanpin1">
+			<div class="remaidanpin_top">
+				<div class="remaidanpin_top1">
+					<img src="../images/s1.gif"/>
+				</div>
+				<div class="remaidanpin_top2">
+					<ul>
+						<li><a href="#">碧玺</a></li>
+						<li><a href="#">念珠</a></li>
+						<li><a href="#">石榴石</a></li>
+						<li><a href="#">佛珠</a></li>
+						<li><a href="#">手串男</a></li>
+						<li><a href="#">手链女</a></li>
+						<li><a href="#">手链</a></li>
+						<li><a href="#">男手链</a></li>
+						<li><a href="#">拉杆箱</a></li>
+						<li><a href="#">沙发</a></li>
+						<li><a href="#">连衣裙</a></li>
+						<li><a href="#">女包</a></li>
+						<li><a href="#">男包</a></li>
+						<li><a href="#">妈妈装</a></li>
+						<li><a href="#">电脑椅</a></li>
+						<li><a href="#">床垫</a></li>
+						<li><a href="#">短裤女</a></li>
+						<li><a href="#">电脑桌</a></li>
+						<li><a href="#">雪纺衫</a></li>
+						<li><a href="#">客厅灯</a></li>
+						<li><a href="#">窗帘</a></li>
+						<li><a href="#">衣柜</a></li>
+						<li><a href="#">t恤女</a></li>
+					</ul>
+				</div>
+			</div>
+			<div class="remaidanpin_bottom">
+				<div class="remaidanpin_bottom1">
+					<div class="remaidanpin_bottom1_top">
+						<div class="remaidanpin_bottom1_top_a">
+							<a href="#">
+								<img src="../images/s2.gif"/>
+								<h1>￥108.00</h1>
+								<span>月销760笔</span>
+								<p>背包背不采用高透气网络材料，有空气倒流设计，配上加厚肩垫</p>
+								<s>评价&nbsp;0&nbsp;&nbsp;&nbsp;收藏&nbsp;14056</s>
+							</a>
+						</div>
+						<div class="remaidanpin_bottom1_top_b">
+							<div class="remaidanpin_bottom1_top_b1">
+								<a href="#">
+									<img src="../images/s3.gif"/>
+									<h1>￥80.00</h1>
+									<span>月销0笔</span>
+								</a>
+							</div>
+							<div class="remaidanpin_bottom1_top_b1">
+								<a href="#">
+									<img src="../images/s4.gif"/>
+									<h1>￥39.00</h1>
+									<span>月销862笔</span>
+								</a>
+							</div>
+						</div>
+					</div>
+					<div class="remaidanpin_bottom1_bottom">
+						<a href="#"><img src="../images/s5.jpg"/></a>
+					</div>
+				</div>
+				<div class="remaidanpin_bottom2 remaidanpin_bottom1">
+					<div class="remaidanpin_bottom1_top">
+						<div class="remaidanpin_bottom1_top_a">
+							<a href="#">
+								<img src="../images/s2.gif"/>
+								<h1>￥108.00</h1>
+								<span>月销760笔</span>
+								<p>背包背不采用高透气网络材料，有空气倒流设计，配上加厚肩垫</p>
+								<s>评价&nbsp;0&nbsp;&nbsp;&nbsp;收藏&nbsp;14056</s>
+							</a>
+						</div>
+						<div class="remaidanpin_bottom1_top_b">
+							<div class="remaidanpin_bottom1_top_b1">
+								<a href="#">
+									<img src="../images/s3.gif"/>
+									<h1>￥80.00</h1>
+									<span>月销0笔</span>
+								</a>
+							</div>
+							<div class="remaidanpin_bottom1_top_b1">
+								<a href="#">
+									<img src="../images/s4.gif"/>
+									<h1>￥39.00</h1>
+									<span>月销862笔</span>
+								</a>
+							</div>
+						</div>
+					</div>
+					<div class="remaidanpin_bottom1_bottom">
+						<a href="#"><img src="../images/s5.jpg"/></a>
+					</div>
+				</div>
+				<div class="remaidanpin_bottom3 remaidanpin_bottom1">
+					<div class="remaidanpin_bottom1_top">
+						<div class="remaidanpin_bottom1_top_a">
+							<a href="#">
+								<img src="../images/s2.gif"/>
+								<h1>￥108.00</h1>
+								<span>月销760笔</span>
+								<p>背包背不采用高透气网络材料，有空气倒流设计，配上加厚肩垫</p>
+								<s>评价&nbsp;0&nbsp;&nbsp;&nbsp;收藏&nbsp;14056</s>
+							</a>
+						</div>
+						<div class="remaidanpin_bottom1_top_b">
+							<div class="remaidanpin_bottom1_top_b1">
+								<a href="#">
+									<img src="../images/s3.gif"/>
+									<h1>￥80.00</h1>
+									<span>月销0笔</span>
+								</a>
+							</div>
+							<div class="remaidanpin_bottom1_top_b1">
+								<a href="#">
+									<img src="../images/s4.gif"/>
+									<h1>￥39.00</h1>
+									<span>月销862笔</span>
+								</a>
+							</div>
+						</div>
+					</div>
+					<div class="remaidanpin_bottom1_bottom">
+						<a href="#"><img src="../images/s5.jpg"/></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="cainixihuan">
+		<div class="cainixihuan1">
+			<div class="cainixihuan_top">
+				<img src="../images/s6.gif"/>
+			</div>
+			<div class="cainixihuan_midden">
+				<ul>
+					<li>
+						<a href="#">
+							<img src="../images/s8.jpg"/>
+							<p><span>MK KOREA HANDLE MK X10 反曲弓&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;弓把 射箭器材</span></p>
+							<p><b>￥5262</b></p>
+						</a>
+					</li>
+					<li>
+						<a href="#">
+							<img src="../images/s8.jpg"/>
+							<p><span>MK KOREA HANDLE MK X10 反曲弓&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;弓把 射箭器材</span></p>
+							<p><b>￥5262</b></p>
+						</a>
+					</li>
+					<li>
+						<a href="#">
+							<img src="../images/s8.jpg"/>
+							<p><span>MK KOREA HANDLE MK X10 反曲弓&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;弓把 射箭器材</span></p>
+							<p><b>￥5262</b></p>
+						</a>
+					</li>
+					<li>
+						<a href="#">
+							<img src="../images/s8.jpg"/>
+							<p><span>MK KOREA HANDLE MK X10 反曲弓&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;弓把 射箭器材</span></p>
+							<p><b>￥5262</b></p>
+						</a>
+					</li>
+					<li>
+						<a href="#">
+							<img src="../images/s8.jpg"/>
+							<p><span>MK KOREA HANDLE MK X10 反曲弓&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;弓把 射箭器材</span></p>
+							<p><b>￥5262</b></p>
+						</a>
+					</li>
+				</ul>
+			</div>
+			<div class="cainixihuan_bottom">
+				<img src="../images/s9.gif"/>
+			</div>
+		</div>
+	</div>
+	<div id="footer">
+		<div class="footer1">
+			<ul>
+				<li>
+					<div class="footer1_a">
+						<img src="../images/t1.gif"/><span>消费者保障</span>
+					</div>
+					<div class="footer1_b">
+						<a href="#">保障范围</a>
+						<a href="#">退货退款流程</a>
+						<a href="#">服务中心</a>
+						<a href="#">更多特色服务</a>
+					</div>
+				</li>
+				<li>
+					<div class="footer1_a">
+						<img src="../images/t2.gif"/><span>新手上路</span>
+					</div>
+					<div class="footer1_b">
+						<a href="#">新手专区</a>
+						<a href="#">消费警示</a>
+						<a href="#">交易安全</a>
+						<a href="#">24小时在线帮助</a>
+						<a href="#">免费开店</a>
+					</div>
+				</li>
+				<li>
+					<div class="footer1_a">
+						<img src="../images/t3.gif"/><span>付款方式</span>
+					</div>
+					<div class="footer1_b">
+						<a href="#">快捷方式</a>
+						<a href="#">信用卡</a>
+						<a href="#">余额宝</a>
+						<a href="#">蚂蚁花吧</a>
+						<a href="#">货到付款</a>
+					</div>
+				</li>
+				<li>
+					<div class="footer1_a">
+						<img src="../images/t4.gif"/><span>淘宝特色</span>
+					</div>
+					<div class="footer1_b">
+						<a href="#">手机淘宝</a>
+						<a href="#">旺信</a>
+						<a href="#">大众评审</a>
+						<a href="#">B格指南</a>
+					</div>
+				</li>
+			</ul>
+		</div>
+		<div class="footer2">
+			<ul>
+				<li><a href="#">阿里巴巴集团</a></li>
+				<li><a href="#">淘宝网</a></li>
+				<li><a href="#">天猫</a></li>
+				<li><a href="#">聚划算</a></li>
+				<li><a href="#">全球速买通</a></li>
+				<li><a href="#">阿里巴巴国际交易市场</a></li>
+				<li><a href="#">1688</a></li>
+				<li><a href="#">阿里妈妈</a></li>
+				<li><a href="#">阿里旅行、去啊</a></li>
+				<li><a href="#">阿里云计算</a></li>
+				<li><a href="#">YOUOS</a></li>
+				<li><a href="#">阿里通信</a></li>
+				<li><a href="#">一淘</a></li>
+				<li><a href="#">万网</a></li>
+				<li><a href="#">高德</a></li>
+				<li><a href="#">UC</a></li>
+				<li><a href="#">有盟</a></li>
+				<li><a href="#">虾米</a></li>
+				<li><a href="#">阿里星球</a></li>
+				<li><a href="#">来往</a></li>
+				<li><a href="#">丁丁</a></li>
+				<li><a href="#">支付宝</a></li>
+				<li><a href="#">优酷</a></li>
+				<li><a href="#">土豆</a></li>
+				<li><a href="#">阿里健康</a></li>
+				<li><a href="#">阿里影业</a></li>
+				<li><a href="#">阿里体育</a></li>
+				<li><a href="#">网商银行</a></li>
+			</ul>
+		</div>
+		<div class="footer3">
+			<ul class="footer3_a">
+				<li><a href="#">关于淘宝</a></li>
+				<li><a href="#">合作伙伴</a></li>
+				<li><a href="#">营销中心</a></li>
+				<li><a href="#">廉政举报</a></li>
+				<li><a href="#">联系客服</a></li>
+				<li><a href="#">卡方平台</a></li>
+				<li><a href="#">诚征英才</a></li>
+				<li><a href="#">联系我们</a></li>
+				<li><a href="#">网站地图</a></li>
+				<li><a href="#">法律声明</a></li>
+				<li><a href="#">知识产权</a></li>
+				<li><span>&copy;2003-2016 Taobao.com 版权所有</span></li>
+			</ul>
+			<ul class="footer3_a">
+				<li><b>网络文化经营许可证：</b><a href="#">浙网文[2013]0268-027号</a></li>
+				<li><b>增值电信业务许可证：</b><a href="#">浙B2-20080224</a></li>
+				<li><b>信息网络传播视听节目许可证：1109364号</b></li>
+				<li><b>互联网违法和不良信息举报电话：0571-81683755 box@list.alibaba-inc.com</b></li>
+			</ul>
+			<ul class="footer3_b footer3_a">
+				<li><a href="#"><img src="../images/x1.gif"/></a></li>
+				<li><a href="#"><img src="../images/x2.gif"/></a></li>
+				<li><a href="#"><img src="../images/x3.gif"/></a></li>
+				<li><a href="#"><img src="../images/x4.gif"/></a></li>
+				<li><a href="#"><img src="../images/x5.gif"/></a></li>
+				<li><a href="#"><img src="../images/x6.gif"/></a></li>
+				<li><a href="#"><img src="../images/x7.gif"/></a></li>
+				<li><a href="#"><img src="../images/x8.gif"/></a></li>
+			</ul>
+		</div>
+	</div>
+</body>
+</html>
