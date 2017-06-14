@@ -730,3 +730,426 @@
 .brand-container .container-bottom ul li:hover div{
     display: block;
 }
+/*--------------------热门品牌----------------------*/
+#brand1{
+    width: 100%;
+    height: 313px;
+    margin-top:40px;
+}
+.brand1-container{
+    width: 1090px;
+    height: 313px;
+    margin: 0 auto;
+}
+.brand1-container .container-top{
+    width: 1090px;
+    height: 40px;
+}
+.brand1-container .container-top h1{
+    float: left;
+    font-size: 22px;
+}
+.brand1-container .container-top span{
+    color: #999999;
+    margin-left: 10px;
+    line-height: 25px;
+}
+.brand1-container .container-top a{
+    width: 65px;
+    /*display: block;!*行转块*!*/
+    float: right;
+    color: #333;
+    line-height: 25px;
+    background: url("images/zuoye_189.png") no-repeat right;
+}
+/*:hover鼠标划入{更改属性}*/
+.brand1-container .container-top a:hover{
+    color: #e91b51;
+}
+.brand1-container .container-bottom{
+    width: 1090px;
+    height: 273px;
+}
+.brand1-container .container-bottom .left{
+    width: 181px;
+    height: 273px;
+    float: left;
+}
+.brand1-container .container-bottom .right{
+    width: 909px;
+    height: 273px;
+    float: left;
+}
+.brand1-container .container-bottom .right ul li{
+    width: 181px;
+    height: 136px;
+    border-right: 1px solid #f6f6f6;
+    border-bottom: 1px solid #f6f6f6;
+    float: left;
+    position: relative;
+}
+.brand1-container .container-bottom .right ul li .guanzhu{
+    position: absolute;
+    width: 181px;
+    height: 136px;
+    background-color: #333;
+    opacity: 0.95;
+    left: 0;
+    top:0;
+    display: none;
+}
+.brand1-container .container-bottom .right ul li:hover .guanzhu{
+    display: block;
+}
+.brand1-container .container-bottom .right ul li .guanzhu div{
+    width: 60px;
+    height: 18px;
+    border: 1px solid #fff;
+    border-radius: 9px;
+    color: #fff;
+    text-align: center;
+    line-height: 18px;
+    margin: 10px;
+}
+.brand1-container .container-bottom .right ul li .guanzhu div:hover{
+    background-color: #fff;
+    color: #333;
+    cursor: pointer;
+}
+.brand1-container .container-bottom .right ul li .guanzhu p{
+    text-align: center;
+    color: #fff;
+    margin-top: 20px;
+}
+.brand1-container .container-bottom .right ul li .guanzhu a{
+    background-color: #e31436;
+    width: 76px;
+    height: 20px;
+    border-radius: 10px;
+    margin:10px auto;
+    text-align: center;
+    line-height: 20px;
+    color: #fff;
+}
+.brand1-container .container-bottom .right ul li:hover a p{
+    color: #e91b51;
+}
+.brand1-container .container-bottom .right ul .li3 div{
+    padding-top: 30px;
+    line-height: 60px;
+}
+.brand1-container .container-bottom .right ul .li4 div{
+    padding-top: 40px;
+    line-height: 70px;
+}
+.brand1-container .container-bottom .right ul .li5 div{
+    padding-top: 20px;
+    line-height: 40px;
+}
+.brand1-container .container-bottom .right ul .liRight{
+    border-right: none;
+}
+.brand1-container .container-bottom .right ul .liBottom{
+    border-bottom: none;
+}
+.brand1-container .container-bottom .right ul li a{
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+.brand1-container .container-bottom .right ul li a div{
+    text-align: center;
+}
+.brand1-container .container-bottom .right ul li a p{
+    text-align: center;
+    color: #333333;
+}
+/*-----------------------母婴专区------------------------*/
+#mom{
+    width: 100%;
+    height: 40px;
+    margin-top: 30px;
+}
+.mom-container{
+    width: 1090px;
+    height: 40px;
+    margin:0 auto;
+    overflow: hidden;
+}
+.mom-container .container-left{
+    width: 100px;
+    height: 40px;
+    float: left;
+}
+.mom-container .container-left h1{
+    font-size: 22px;
+}
+.mom-container .container-center{
+    width: 580px;
+    height: 40px;
+    float: left;
+    margin-left: 20px;
+}
+.mom-container .container-center ul li{
+    float: left;
+    color: #999;
+    line-height: 30px;
+    margin-right: 11px;
+}
+.mom-container .container-center ul li:nth-child(1){
+    margin-right: 0;
+}
+.mom-container .container-center ul .li-red a{
+    color: #e91b51;
+}
+.mom-container .container-center ul .li-red a:hover{
+    border-bottom:1px solid #e91b51;
+}
+.mom-container .container-center ul li a{
+    color: #333;
+}
+.mom-container .container-center ul li a:hover{
+    border-bottom: 1px solid #333;
+}
+.mom-container .container-right{
+    width: 70px;
+    height: 40px;
+    float: right;
+    line-height: 30px;
+    text-align: right;
+}
+.mom-container .container-right a{
+    color: #333;
+}
+
+#momc{
+    width: 100%;
+    height: 440px;/*高*/
+    margin-bottom: 30px;
+}
+.momc-container{
+    width: 1090px;
+    height: 440px;
+    margin:0 auto;
+    overflow: hidden;
+    border-top: 2px solid black;
+}
+.momc-container .container-left{
+    width: 246px;
+    height: 440px;
+    float: left;
+    position: relative;
+}
+.momc-container .container-left .aa{
+    width: 100%;
+    height: 440px;
+    display: block;
+    background-image: url("images/母婴专区.jpg");
+}
+.momc-container .container-left ul{
+    height: 136px;
+    width: 204px;
+    position: absolute;
+    left: 26px;
+    top:24px;
+}
+.momc-container .container-left ul li{
+    width: 58px;
+    height: 58px;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.momc-container .container-left ul li a{
+    width: 58px;
+    height: 58px;
+    background-color: white;
+    color: #333;
+    display: block;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 58px;
+}
+.momc-container .container-left ul li a:hover{
+    color: #e91b51;
+    background-color: #e99c7b;
+}
+.momc-container .container-center{
+    width: 600px;
+    height: 440px;
+    float: left;
+}
+.momc-container .container-center ul li{
+    width: 299px;
+    height: 219px;
+    border-right: 1px solid #999;
+    border-bottom: 1px solid #999;
+    float: left;
+    text-align: center;
+    overflow: hidden;
+}
+.momc-container .container-center ul li a{
+    width: 299px;
+    height: 219px;
+    display: block;
+}
+.momc-container .container-center ul li a h1{
+    color: #000;
+    margin-top: 22px;
+    font-size: 14px;
+}
+.momc-container .container-center ul li a p{
+    color: #666;
+    margin-top: 5px;
+}
+.momc-container .container-center ul li a img{
+    margin-top: 40px;
+}
+.momc-container .container-center ul li a img:hover{
+    opacity: 0.9;
+}
+.momc-container .container-right{
+    width: 243px;
+    height: 439px;
+    border-right: 1px solid #999;
+    border-bottom: 1px solid #999;
+    float: left;
+}
+.momc-container .container-right .top{
+    width: 244px;
+    height: 40px;
+    overflow: hidden;
+}
+.momc-container .container-right .top h1{
+    font-size: 16px;
+    margin-top: 20px;
+    margin-left: 19px;
+}
+.momc-container .container-right .center{
+    width: 244px;
+    height: 384px;
+}
+.momc-container .container-right .center ul li{
+    width: 244px;
+    height: 96px;
+}
+.momc-container .container-right .center ul li a img{
+    margin-top: 18px;
+    margin-left: 10px;
+}
+.momc-container .container-right .center ul li a div{
+    float: right;
+    width: 115px;
+    height: 95px;
+}
+.momc-container .container-right .center ul li a div p{
+    margin-top: 12px;
+    color: #333;
+    margin-bottom: 16px;
+}
+.momc-container .container-right .center ul li a div p:hover{
+    text-decoration: underline;
+}
+.momc-container .container-right .center ul li a div span{
+    color: #e91b51;
+    font-weight: bold;
+    font-size: 14px;
+}
+.momc-container .container-right .center ul li a div s{
+    text-decoration: line-through;
+    color: #666;
+}
+.momc-container .container-right .center ul li a{
+    width: 204px;
+    height: 95px;
+    display: block;
+    margin-left: 20px;
+    border-bottom: 1px dashed #999;
+}
+.momc-container .container-right .center ul li:nth-child(4) a{
+    border-bottom: none;
+    height: 96px;
+}
+.momc-container .container-right .bottom{
+    width: 244px;
+    height: 16px;
+}
+.momc-container .container-right .bottom div{
+    width: 6px;
+    height: 6px;
+    background-color: #e0e0e0;
+    border-radius: 50%;
+    float: left;
+    margin-top: 5px;
+    margin-right: 7px;
+}
+.momc-container .container-right .bottom div:nth-child(1){
+    margin-left: 104px;
+    background-color: #333333;
+}
+
+#tuxin{
+    width: 100%;
+    height: 108px;
+    overflow: hidden;
+}
+.tuxin-container{
+    width: 1090px;
+    height: 108px;
+    margin:0 auto;
+    border: 1px solid #f2f2f2;
+}
+.tuxin-container ul{
+    width: 1090px;
+    height: 108px;
+}
+.tuxin-container ul li{
+    float: left;
+    width: 108px;
+    height: 100%;
+    margin-right: 13px;
+    position: relative;
+}
+.tuxin-container ul li div{
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    background: url("images/xin.png");
+    top:10px;
+    right: 10px;
+    display: none;
+}
+.tuxin-container ul li:hover div{
+    display: block;
+}
+.tuxin-container ul li a{
+    width: 108px;
+    height: 100%;
+    display: block;
+}
+.tuxin-container ul li:nth-child(1){
+    line-height: 108px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 14px;
+}
+.tuxin-container ul li:nth-child(2) a{
+    background: url("images/images/kaola2_03.gif") no-repeat center;}
+.tuxin-container ul li:nth-child(3) a{
+    background: url("images/images/kaola2_05.gif") no-repeat center;}
+.tuxin-container ul li:nth-child(4) a{
+    background: url("images/images/kaola2_07.gif") no-repeat center;
+}
+.tuxin-container ul li:nth-child(5) a{
+    background: url("images/images/kaola2_09.gif") no-repeat center;
+}
+.tuxin-container ul li:nth-child(6) a{
+    background: url("images/images/kaola2_11.gif") no-repeat center;}
+.tuxin-container ul li:nth-child(7) a{
+    background: url("images/images/kaola2_13.gif") no-repeat center;}
+.tuxin-container ul li:nth-child(8) a{
+    background: url("images/images/kaola2_15.gif") no-repeat center;}
+.tuxin-container ul li:nth-child(9) a{
+    background: url("images/images/kaola2_17.gif") no-repeat center;
+}
+
