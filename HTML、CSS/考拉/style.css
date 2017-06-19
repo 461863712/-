@@ -1153,3 +1153,137 @@
     background: url("images/images/kaola2_17.gif") no-repeat center;
 }
 
+/*----------------------页尾logo---------------------*/
+#footer{
+    width: 100%;
+    height: 258px;
+    margin-top: 30px;
+}
+.footer-container{
+    width: 1090px;
+    height: 258px;
+    margin:0 auto;
+}
+.footer-container .container-left{
+    width: 246px;
+    height: 208px;
+    float: left;
+    margin-top: 40px;
+}
+.footer-container .container-left .top{
+    width: 206px;
+    height: 42px;
+    margin:0 auto;
+}
+.footer-container .container-left .bottom{
+    width: 206px;
+    height: 32px;
+    margin:10px auto;
+}
+.footer-container .container-left .bottom ul li{
+    width: 32px;
+    height: 32px;
+    float: left;
+    margin-right: 15px;
+    position: relative;
+}
+.footer-container .container-left .bottom ul li:hover a div{
+    display: block;
+}
+.footer-container .container-left .bottom ul li a div{
+    position: absolute;
+    left: -38px;
+    top:32px;
+    display: none;
+}
+.footer-container .container-left .bottom ul li:nth-child(1){
+    width: 48px;
+    line-height: 32px;
+}
+
+.footer-container .container-center{
+    width: 690px;
+    height: 208px;
+    float: left;
+    margin-top: 40px;
+    margin-left: 10px;
+}
+.footer-container .container-center ul li{
+    width: 137px;
+    height: 120px;
+    border-left:1px solid #999;
+    float: left;
+}
+.footer-container .container-center ul li ul li{
+    height: 24px;
+    border-left: none;
+    margin-left: 10px;
+}
+.footer-container .container-center ul li ul li a{
+    color: #333;
+}
+.footer-container .container-center ul li ul li a:hover{
+    text-decoration:underline;
+}
+.footer-container .container-right{
+    width: 108px;
+    height: 208px;
+    float: left;
+    margin-top: 40px;
+}
+
+
+
+
+#jianshao{
+    width: 100%;
+    height: 152px;
+    background-color: #333333;
+}
+.jianshao-container{
+    width: 1090px;
+    height: 132px;
+    background-color: #333333;
+    margin:0 auto;
+    text-align: center;
+    line-height: 25px;
+    padding-top: 20px;
+    color: #c2c2c2;
+}
+.jianshao-container a{
+    color: #c2c2c2;
+}
+
+
+
+/*--------------------正品承诺--------------------*/
+#zheng{
+    width: 100%;
+    height: 125px;
+    margin-top: 30px;
+}
+.zheng-container{
+    width: 1090px;
+    height: 124px;
+    margin:0 auto;
+    border-top: 1px solid #f2f2f2;
+    border-bottom: 1px solid #f2f2f2;
+}
+.zheng-container ul li{
+    width: 272.5px;
+    height:44px;
+    float: left;
+    margin-top: 40px;
+}
+.zheng-container ul li img{
+    margin-left: 10px;
+    float: left;
+}
+.zheng-container ul li div{
+    float: left;
+    margin-left: 10px;
+}
+.zheng-container ul li div h1{
+    font-size: 18px;
+    margin-bottom: 5px;
+}
