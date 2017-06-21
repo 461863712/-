@@ -383,11 +383,262 @@
       background-color: #f6f6f6;
       border: 1px solid #848484;
       float: left;
+      .top{
+        width: 723px;
+        height: 52px;
+        li{
+          float: left;
+          margin-left: 9px;
+          line-height: 52px;
+          color: #cfd6db;
+          a{
+            color: #646468;
+          }
+          a:hover{
+            color: #cf1616;
+          }
+        }
+        li:nth-child(2){
+          a{color: #cf1616;}
+        }
+        li:first-child{
+          margin-right: 120px;
+          span{
+            display: block;
+            width: 16px;
+            height: 20px;
+            background-image: url("images/m18_94.png");
+            float: left;
+            margin-top: 16px;
+            margin-right: 6px;
+          }
+          h1{
+            font-size: 16px;
+            color: #cf1616;
+            float: left;
+          }
+        }
+      }
+      .bottom{
+        width: 723px;
+        height: 166px;
+        li{
+          float: left;
+          width: 112px;
+          margin-left: 22px;
+          text-align: center;
+          a{
+            display: block;
+            width: 100%;
+            height: 100%;
+            p{
+              color: #333;
+              margin-top: 6px;
+              margin-bottom: 9px;
+            }
+            span{
+              color: #f90f0e;
+            }
+          }
+        }
+        li:nth-child(2){
+          margin-left: 0;
+        }
+        .tt{
+          width: 37px;
+          height: 66px;
+          line-height:66px;
+          text-align: center;
+          margin-top: 50px;
+          font-size: 18px;
+          font-weight: bold;
+          color: #a7aab1;
+          cursor: pointer;
+          margin-right: 0;
+          margin-left: 0;
+        }
+      }
     }
     .container-right{
       width: 265px;
       height: 220px;
       float: right;
+    }
+  }
+}
+/*----------------------------限时折扣----------------------------*/
+#time{
+  width: 100%;
+  height: 280px;
+  margin-top: 20px;
+  .time-container{
+    width: 1004px;
+    height:280px;
+    margin:0 auto;
+    overflow: hidden;
+    .timea{
+      width: 330px;
+      height: 280px;
+      float: left;
+      background-color: #f8f8f8;
+      overflow: hidden;
+      .a{
+        width: 330px;
+        height: 40px;
+        line-height: 40px;
+        background-color: #52b1ff;
+        span{
+          display: block;
+          width: 24px;
+          height: 26px;
+          float: left;
+          margin-top: 6px;
+          margin-left: 12px;
+        }
+        h1{
+          font-size: 18px;
+          color: #ffffff;
+          float: left;
+          margin-left: 8px;
+        }
+        a{
+          float: right;
+          width: 36px;
+          height: 21px;
+          line-height: 21px;
+          text-align: center;
+          color: #fff;
+          margin-right: 7px;
+          margin-top: 8px;
+          border: 1px solid #428ecc;
+          border-radius: 3px;
+        }
+      }
+      .b{
+        width: 330px;
+        height: 112px;
+        img{
+          margin-top: 12px;
+          margin-left: 14px;
+        }
+        div{
+          float: right;
+          width: 190px;
+          height: 112px;
+          margin-top: 12px;
+          p{
+            width: 145px;
+            margin-bottom: 10px;
+            color: #333;
+            line-height: 20px;
+          }
+          s{
+            text-decoration: line-through;
+            text-align: right;
+            display: block;
+            margin-right: 15px;
+            margin-bottom: 15px;
+            color: #4f4f4f;
+          }
+          h1{
+            display: block;
+            span{
+              color: #26a3f4;
+              font-weight: bold;
+            }
+            b{
+              float: right;
+              font-size: 20px;
+              margin-right: 15px;
+              color: #333;
+            }
+          }
+        }
+      }
+      .b:hover{
+        p{text-decoration: underline;}
+      }
+      .c{
+        width: 315px;
+        height: 64px;
+        margin-left: 15px;
+        p{
+          float: left;
+          line-height: 20px;
+          width: 215px;
+          margin-top: 10px;
+          color: #333;
+        }
+        div{
+          margin-right: 15px;
+          float: right;
+          width: 70px;
+          text-align: right;
+          s{
+            text-decoration: line-through;
+            display: block;
+            margin-top: 10px;
+            color: #9b9b9b;
+
+          }
+          b{
+            font-size: 14px;
+            color: #26a3f4;;
+            margin-right: 5px;
+          }
+        }
+      }
+      .c:hover p{
+        text-decoration: underline;
+      }
+    }
+    .container-left{
+      margin-right: 7px;
+    }
+    .container-center{
+      margin-right: 7px;
+    }
+  }
+}
+/*----------------------------特色品牌----------------------------*/
+#feature{
+  width: 100%;
+  height: 44px;
+  margin-top: 22px;
+  .feature-container{
+    width: 1004px;
+    height: 44px;
+    margin:0 auto;
+    .container-left{
+      width: 220px;
+      height: 44px;
+      line-height: 44px;
+      float: left;
+      h1{
+        float: left;
+        font-size: 22px;
+      }
+      span{
+        color: #dc0000;
+        margin-left: 10px;
+      }
+    }
+    .container-right{
+      width: 560px;
+      height: 44px;
+      float: right;
+      li{
+        float: right;
+        line-height: 44px;
+        color: #d9d9d9;
+        margin-left: 9px;
+        a{
+          color: #666;
+        }
+        a:hover{
+          text-decoration: underline;
+        }
+      }
     }
   }
 }
