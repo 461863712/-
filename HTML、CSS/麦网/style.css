@@ -667,39 +667,242 @@
   height: 44px;
   margin-top: 22px;
 }
-#feature .feature-container {
+.feature-container {
   width: 1004px;
   height: 44px;
   margin: 0 auto;
 }
-#feature .feature-container .container-left {
-  width: 220px;
+.feature-container .container-left {
+  width: 400px;
   height: 44px;
   line-height: 44px;
   float: left;
 }
-#feature .feature-container .container-left h1 {
+.feature-container .container-left h1 {
   float: left;
   font-size: 22px;
 }
-#feature .feature-container .container-left span {
+.feature-container .container-left span {
   color: #dc0000;
   margin-left: 10px;
 }
-#feature .feature-container .container-right {
+.feature-container .container-right {
   width: 560px;
   height: 44px;
   float: right;
 }
-#feature .feature-container .container-right li {
+.feature-container .container-right li {
   float: right;
   line-height: 44px;
   color: #d9d9d9;
   margin-left: 9px;
 }
-#feature .feature-container .container-right li a {
+.feature-container .container-right li a {
   color: #666;
 }
-#feature .feature-container .container-right li a:hover {
+.feature-container .container-right li a:hover {
   text-decoration: underline;
+}
+#featurea {
+  width: 100%;
+  height: 142px;
+}
+#featurea .featurea-container {
+  width: 1002px;
+  height: 140px;
+  border: 1px solid #eeeeef;
+  margin: 0 auto;
+  overflow: hidden;
+}
+#featurea .featurea-container li {
+  float: left;
+  width: 108px;
+  height: 50px;
+  border: 1px solid #c3c5c7;
+  margin-top: 12px;
+  margin-left: 13px;
+}
+#featurea .featurea-container li img {
+  width: 108px;
+  height: 50px;
+}
+#featurea .featurea-container li:hover {
+  border: 1px solid red;
+}
+/*----------------------------精选女装----------------------------*/
+#choicenes {
+  width: 100%;
+  height: 44px;
+  margin-top: 30px;
+}
+#choiceness {
+  width: 100%;
+  height: 337px;
+}
+.choiceness-container {
+  width: 1004px;
+  height: 330px;
+  border-top: 2px solid #cd0606;
+  margin: 0 auto;
+  padding-top: 5px;
+  overflow: hidden;
+}
+.choiceness-container .container-left {
+  width: 330px;
+  height: 330px;
+  float: left;
+  position: relative;
+  opacity: 0.9;
+}
+.choiceness-container .container-left div {
+  position: absolute;
+  width: 330px;
+  height: 40px;
+  background-color: white;
+  opacity: 0.5;
+  left: 0;
+  top: 290px;
+  text-align: center;
+  line-height: 40px;
+  color: #cc0000;
+  display: none;
+}
+.choiceness-container .container-left:hover {
+  opacity: 1;
+}
+.choiceness-container .container-left:hover div {
+  display: block;
+}
+.choiceness-container .container-center {
+  width: 336px;
+  height: 330px;
+  float: left;
+  margin-left: 13px;
+  overflow: hidden;
+}
+.choiceness-container .container-center li {
+  float: left;
+  margin-right: 5px;
+  position: relative;
+  opacity: 0.9;
+}
+.choiceness-container .container-center li div {
+  position: absolute;
+  width: 163px;
+  height: 30px;
+  left: 0;
+  top: 133px;
+  background-color: white;
+  opacity: 0.5;
+  text-align: center;
+  line-height: 30px;
+  color: #cc0000;
+  display: none;
+}
+.choiceness-container .container-center li:hover {
+  opacity: 1;
+}
+.choiceness-container .container-center li:hover div {
+  display: block;
+}
+.choiceness-container .container-center li:nth-child(3) {
+  margin-top: 5px;
+}
+.choiceness-container .container-center li:nth-child(4) {
+  margin-top: 5px;
+}
+.choiceness-container .container-right {
+  width: 325px;
+  height: 330px;
+  float: left;
+  overflow: hidden;
+}
+.choiceness-container .container-right li {
+  opacity: 0.9;
+  position: relative;
+}
+.choiceness-container .container-right li div {
+  width: 325px;
+  height: 30px;
+  position: absolute;
+  left: 0;
+  top: 133px;
+  background-color: white;
+  opacity: 0.5;
+  text-align: center;
+  line-height: 30px;
+  color: #cc0000;
+  display: none;
+}
+.choiceness-container .container-right li:hover {
+  opacity: 1;
+}
+.choiceness-container .container-right li:hover div {
+  display: block;
+}
+.choiceness-container .container-right li:nth-child(2) {
+  margin-top: 5px;
+}
+/*-------------------------鞋包•配饰•内衣-------------------------*/
+#acc {
+  width: 100%;
+  height: 44px;
+  margin-top: 30px;
+}
+#accs {
+  width: 100%;
+  height: 337px;
+}
+/*----------------------------麦网M战----------------------------*/
+#m18 {
+  width: 100%;
+  height: 44px;
+  margin-top: 30px;
+}
+#m18s {
+  width: 100%;
+  height: 468px;
+}
+#m18s .m18s-container {
+  width: 1004px;
+  height: 460px;
+  margin: 0 auto;
+  padding-top: 5px;
+  border-top: 2px solid #cd0606;
+  border-bottom: 1px solid #918b8d;
+}
+#m18s .m18s-container ul {
+  margin-top: 10px;
+}
+#m18s .m18s-container ul li {
+  float: left;
+  margin-left: 15px;
+}
+/*------------------------------页尾------------------------------*/
+#footer {
+  width: 100%;
+  height: 190px;
+}
+#footer .footer-container {
+  width: 992px;
+  height: 175px;
+  margin: 0 auto;
+  padding-top: 15px;
+  padding-left: 12px;
+  line-height: 28px;
+  color: #333;
+}
+#footer .footer-container span:nth-child(2) {
+  margin-left: 500px;
+}
+#footer .footer-container a {
+  color: #333;
+}
+#footer .footer-container a:hover {
+  text-decoration: underline;
+}
+#footer .footer-container div {
+  width: 100%;
+  margin-top: 30px;
+  text-align: center;
 }

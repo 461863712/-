@@ -1,0 +1,136 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+  font-size: 12px;
+}
+/*--------------------------------页尾--------------------------------*/
+#header {
+  width: 100%;
+  height: 29px;
+  background-color: #f5f5f5;
+  border-bottom: 1px solid #cbcdcc;
+}
+#header .header-container {
+  width: 1000px;
+  height: 29px;
+  background-color: #f5f5f5;
+  border-bottom: 1px solid #cbcdcc;
+  margin: 0 auto;
+  line-height: 29px;
+}
+#header .header-container a {
+  color: #7f7f7f;
+}
+#header .header-container div {
+  float: left;
+  width: 110px;
+  height: 29px;
+}
+#header .header-container div a:nth-child(1) {
+  color: #05a89a;
+}
+#header .header-container div a:hover {
+  color: #05a89a;
+}
+#header .header-container ul {
+  float: right;
+  width: 500px;
+  height: 29px;
+}
+#header .header-container ul li {
+  float: right;
+  padding-left: 8px;
+  padding-right: 3px;
+}
+#header .header-container ul li span {
+  width: 8px;
+  height: 4px;
+  float: right;
+  margin-top: 13px;
+  margin-left: 3px;
+  background-image: url("images/xdf_06.png");
+}
+#header .header-container ul li b {
+  float: left;
+  width: 15px;
+  height: 11px;
+  background-image: url("images/xdf_03.png");
+  margin-top: 9px;
+  margin-right: 5px;
+}
+#header .header-container ul li:nth-child(2):hover {
+  background-color: #f5f5f5;
+}
+#header .header-container ul li:nth-child(3):hover {
+  background-color: #f5f5f5;
+}
+#header .header-container ul li:hover {
+  background-color: #fff;
+}
+#header .header-container ul li:hover a {
+  color: #05a89a;
+}
+#header .header-container ul li:hover span {
+  background-image: url("images/top_03.png");
+}
+/*--------------------------------图片--------------------------------*/
+#pic {
+  width: 100%;
+  height: 90px;
+}
+#pic .pic-container {
+  width: 1000px;
+  height: 90px;
+  margin: 0 auto;
+}
+/*--------------------------------标志--------------------------------*/
+#logo {
+  width: 100%;
+  height: 116px;
+}
+#logo .logo-container {
+  width: 1000px;
+  height: 116px;
+  margin: 0 auto;
+  background-color: yellow;
+  overflow: hidden;
+}
+#logo .logo-container .container-left {
+  width: 200px;
+  height: 116px;
+  float: left;
+}
+#logo .logo-container .container-left a {
+  float: left;
+  margin-top: 20px;
+}
+#logo .logo-container .container-left a:nth-child(2) {
+  margin-top: 50px;
+  margin-left: 15px;
+  color: #7f7f7f;
+}
+#logo .logo-container .container-left a:nth-child(2) span {
+  float: right;
+  width: 8px;
+  height: 4px;
+  background-image: url("images/xdf_06.png");
+  margin-top: 5px;
+  margin-left: 5px;
+}
+#logo .logo-container .container-left a:hover span {
+  background-image: url("images/top_03.png");
+}
+#logo .logo-container .container-center {
+  width: 601px;
+  height: 116px;
+  background-color: red;
+  float: left;
+}
+#logo .logo-container .container-right {
+  width: 82px;
+  height: 116px;
+  background-color: blue;
+  float: left;
+}
